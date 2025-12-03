@@ -38,7 +38,7 @@
             <div class="space18"></div>
             <h3>Alex Carry</h3>
             <div class="space16"></div>
-            <p>Hi, I’m Alex, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences.</p>
+            <p>Hi, I’m Alex,  a Web Developer with 3+ years of experience building modern, responsive, and secure solutions.</p>
             <div class="space32"></div>
             <ul>
               <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
@@ -52,7 +52,7 @@
               <a href="assets/img/all-images/hero/cv.pdf" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
-            <p>© 2024 OVRO. All Rights Reserved.</p>
+            <p>© 2025 VM. All Rights Reserved.</p>
           </div>
       </div>
       <div class="col-lg-8">
@@ -103,7 +103,7 @@
                     <div class="about-main-boxes">
                       <h4>Alex Carry</h4>
                       <div class="space24"></div>
-                      <p>Hi, I’m Alex Carry, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences. I specialize in crafting user-centered designs that enhance engagement and drive results. By combining research, creativity, and technical skills, I deliver solutions that not only look great but also function seamlessly. </p>
+                      <p>Hi, I’m Alex Carry, a Web Developer with 3+ years of experience creating versatile and modern digital solutions. I specialize in crafting designs and functionalities that are responsive, secure, and user-friendly, delivering real results for both businesses and users. I take a user-centered approach to every project, combining creativity, technical expertise, and proper planning to ensure websites look great, perform well, and meet the goals of clients and users alike. My passion lies in continuously learning and applying the latest technologies to provide innovative and reliable solutions. </p>
                     </div>
                   </div>
                   <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="900">
@@ -218,33 +218,58 @@
                       <div class="space50"></div>
                      <div class="div" data-aos="fade-left" data-aos-duration="900">
                       <div class="service-main-boxes" >
-                        <h4>UI/UX Design</h4>
+                        <h4>Web Development</h4>
                         <div class="space24"></div>
                         <p>Designing intuitive, user-focused interfaces that prioritize functionality and seamless navigation.</p>
                       </div>
                      </div>
+
+
+
                       <div class="space30"></div>
                       <div class="div" data-aos="fade-left" data-aos-duration="1000">
                         <div class="service-main-boxes">
-                          <h4>User Research & Prototyping</h4>
+                          <h4>WordPress Development</h4>
                           <div class="space24"></div>
-                          <p>Conducting in-depth user research and creating interactive prototypes to validate ideas and refine designs.</p>
+                          <p>Custom WordPress solutions for easy content management, themes, and plugin integration.</p>
                         </div>
                       </div>
+
+
+
+
                       <div class="space30"></div>
                       <div class="div" data-aos="fade-left" data-aos-duration="1100">
                         <div class="service-main-boxes">
-                          <h4>Responsive Web Design</h4>
+                          <h4>Full-Stack Development</h4>
                           <div class="space24"></div>
-                          <p>Crafting designs that adapt seamlessly across all devices, ensuring a consistent user experience.</p>
+                          <p>Handling both front-end and back-end development to build complete web solutions.</p>
                         </div>
                       </div>
+
+
+
+
+
+
                       <div class="space30"></div>
                       <div class="div" data-aos="fade-left" data-aos-duration="1200">
                         <div class="service-main-boxes">
-                          <h4>Wireframing & Visual Design</h4>
+                          <h4>SEO & Website Audits</h4>
                           <div class="space24"></div>
-                          <p>Creating detailed wireframes and visually stunning designs to bring ideas into focus.</p>
+                          <p>
+Optimizing your website for search engines and auditing performance for better visibility.</p>
+                        </div>
+                      </div>
+
+
+                       <div class="space30"></div>
+                      <div class="div" data-aos="fade-left" data-aos-duration="1200">
+                        <div class="service-main-boxes">
+                          <h4>SEO & Website Audits</h4>
+                          <div class="space24"></div>
+                          <p>Testing & Quality Assurance
+Ensuring your website works flawlessly across devices with thorough testing.</p>
                         </div>
                       </div>
                     </div>
@@ -257,7 +282,7 @@
           <div class="space50"></div>
           <div id="list-item-4">
             <!--===== SKILL AREA STARTS =======-->
-            <div class="skill-section-area">
+            <!-- <div class="skill-section-area">
               <div class="container">
                 <div class="row">
                   <div class="col-gl-12">
@@ -345,7 +370,190 @@
                   </div>
                 </div>
               </div>
+            </div> -->
+
+
+            <!--===== SKILL AREA STARTS =======-->
+<div class="skill-section-area">
+  <div class="container">
+    <div class="row">
+      <div class="col-gl-12">
+        <div class="skill-header heading1">
+          <h5 data-aos="fade-left" data-aos-duration="800">
+            <img src="assets/img/icons/sublogo12.svg" alt="">My Skills
+          </h5>
+          <div class="space24"></div>
+          <h2 data-aos="fade-left" data-aos-duration="1000">The Tools Behind</h2>
+          <div class="space24"></div>
+          <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Exceptional <span>Development</span></h2>
+        </div>
+        <div class="space80"></div>
+
+        <div class="row">
+
+          <!-- HTML -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="900">
+            <div class="skill-boxarea">
+              <div class="icons">
+              <img src="assets/img/icons/skill4.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <h3><span class="counter">85</span>%</h3>
+              <div class="space16"></div>
+              <p>HTML / HTML5</p>
             </div>
+          </div>
+
+          <!-- CSS -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
+            <div class="skill-boxarea">
+              <div class="icons">
+                 <img src="assets/img/icons/skill3.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <!-- <h3><span class="counter">82</span>%</h3> -->
+              <div class="space16"></div>
+              <p>CSS / Bootstrap / Tailwind</p>
+            </div>
+          </div>
+
+          <!-- JavaScript -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1100">
+            <div class="skill-boxarea">
+              <div class="icons">
+         <img src="assets/img/icons/skill4.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <!-- <h3><span class="counter">78</span>%</h3> -->
+              <div class="space16"></div>
+              <p>JavaScript (ES6+)</p>
+            </div>
+          </div>
+
+          <!-- React -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
+            <div class="skill-boxarea">
+              <div class="icons">
+                   <img src="assets/img/icons/skill3.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <!-- <h3><span class="counter">70</span>%</h3> -->
+              <div class="space16"></div>
+              <p>React.js</p>
+            </div>
+          </div>
+
+          <!-- PHP -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="900">
+            <div class="skill-boxarea">
+              <div class="icons">
+               <img src="assets/img/icons/skilL2.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <!-- <h3><span class="counter">75</span>%</h3> -->
+              <div class="space16"></div>
+              <p>PHP</p>
+            </div>
+          </div>
+
+          <!-- WordPress -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
+            <div class="skill-boxarea">
+              <div class="icons">
+                <img src="assets/img/icons/skill1.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <!-- <h3><span class="counter">72</span>%</h3> -->
+              <div class="space16"></div>
+              <p>WordPress</p>
+            </div>
+          </div>
+
+          <!-- WooCommerce -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1100">
+            <div class="skill-boxarea">
+              <div class="icons">
+                   <img src="assets/img/icons/skill1.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <!-- <h3><span class="counter">70</span>%</h3> -->
+              <div class="space16"></div>
+              <p>WooCommerce</p>
+            </div>
+          </div>
+
+          <!-- Shopify -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
+            <div class="skill-boxarea">
+              <div class="icons">
+                <img src="assets/img/icons/skill1.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <!-- <h3><span class="counter">64</span>%</h3> -->
+              <div class="space16"></div>
+              <p>Shopify</p>
+            </div>
+          </div>
+
+          <!-- SEO -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="900">
+            <div class="skill-boxarea">
+              <div class="icons">
+      <img src="assets/img/icons/skill2.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <!-- <h3><span class="counter">72</span>%</h3> -->
+              <div class="space16"></div>
+              <p>SEO (On-page & Technical)</p>
+            </div>
+          </div>
+
+          <!-- Website Audit -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
+            <div class="skill-boxarea">
+              <div class="icons">
+           <img src="assets/img/icons/skill1.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <!-- <h3><span class="counter">75</span>%</h3> -->
+              <div class="space16"></div>
+              <p>Website Audit</p>
+            </div>
+          </div>
+
+          <!-- Testing -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1100">
+            <div class="skill-boxarea">
+              <div class="icons">
+               <img src="assets/img/icons/skill1.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <!-- <h3><span class="counter">70</span>%</h3> -->
+              <div class="space16"></div>
+              <p>Website Testing</p>
+            </div>
+          </div>
+
+          <!-- Canva -->
+          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
+            <div class="skill-boxarea">
+              <div class="icons">
+                   <img src="assets/img/icons/skill1.svg" alt="">
+              </div>
+              <div class="space24"></div>
+              <!-- <h3><span class="counter">85</span>%</h3> -->
+              <div class="space16"></div>
+              <p>Canva</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--===== SKILL AREA ENDS =======-->
+
             <!--===== SKILL AREA ENDS =======-->
           </div>
           <div class="space30"></div>

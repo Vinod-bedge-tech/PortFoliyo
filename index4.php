@@ -38,7 +38,7 @@
             <div class="space18"></div>
             <h3>Alex Carry</h3>
             <div class="space16"></div>
-            <p>Hi, I’m Alex, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences.</p>
+            <p>Hi, I’m Alex, I’m a Web Developer with 3+ years of experience creating versatile and modern digital solutions. I specialize in crafting designs and functionalities that are responsive, secure, and user-friendly, delivering real results for both businesses and users. I take a user-centered approach to every project, combining creativity, technical expertise, and proper planning to ensure websites look great, perform well, and meet the goals of clients and users alike. My passion lies in continuously learning and applying the latest technologies to provide innovative and reliable solutions.</p>
             <div class="space32"></div>
             <ul>
               <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
