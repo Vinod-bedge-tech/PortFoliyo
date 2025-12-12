@@ -12,15 +12,16 @@
         </div>
         <div class="sidebar-content">
           <ul>
-            <li><a href="#list-item-1">Home</a></li>
-                 <li><a href="index.php">Intrests</a></li>
-            <li><a href="#list-item-2">About Us</a></li>
-            <li><a href="#list-item-3">service</a></li>
-            <li><a href="#list-item-4">Skill</a></li>
-            <li><a href="#list-item-5">Portfolio</a></li>
-            <li><a href="#list-item-6">Testimonial</a></li>
-            <li><a href="#list-item-7">Blogs</a></li>
-            <li><a href="#list-item-8">Contact</a></li>
+   <li><a href="index.php#list-item-1">Home</a></li>
+<li><a href="intrest.php">Interests</a></li>
+<li><a href="index.php#list-item-2">About Us</a></li>
+<li><a href="index.php#list-item-3">Services</a></li>
+<li><a href="index.php#list-item-4">Skills</a></li>
+<li><a href="index.php#list-item-5">Portfolio</a></li>
+<li><a href="index.php#list-item-6">Testimonial</a></li>
+<li><a href="index.php#list-item-7">Blogs</a></li>
+<li><a href="index.php#list-item-8">Contact</a></li>
+
           </ul>
         </div>
         <div class="space32"></div>
