@@ -15,4 +15,5 @@
   <script src="assets/js/plugins/SmoothScroll.js"></script>
   <script src="assets/js/plugins/parallax.js"></script>
   <script src="assets/js/main.js"></script>
+    <script src="assets/js/Contact_Us.js"></script>
    <script src="assets/js/plugins/custom.js"></script>

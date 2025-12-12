@@ -636,7 +636,7 @@
           <div id="list-item-5">
 
 
-          
+
             <!--===== PORTFOLIO AREA STARTS =======-->
             <div class="portfolio-section-area">
               <div class="container">
@@ -984,8 +984,144 @@
           </div>
           <div class="space60"></div>
           <div id="list-item-8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--===== CONTACT AREA STARTS =======-->
+<div class="contact-section-area">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+
+        <div class="contact-heading heading1">
+          <h5 data-aos="fade-left" data-aos-duration="900">
+            <img src="assets/img/icons/sublogo1.svg" alt="">Contact Me
+          </h5>
+          <div class="space24"></div>
+          <h2 data-aos="fade-left" data-aos-duration="1000">Have Any Project in</h2>
+          <div class="space24"></div>
+          <h2 class="head" data-aos="fade-left" data-aos-duration="1100">
+            Mind, <span>Let's Talk</span>
+          </h2>
+        </div>
+
+        <div class="space50"></div>
+
+        <div class="contact-boxarea" data-aos="zoom-in" data-aos-duration="1000">
+          <h3>Let’s Work Together!</h3>
+          <div class="space12"></div>
+
+          <!-- ⭐️ FIXED FORM START -->
+        <form id="Contact_Us" action="https://formspree.io/f/xrbnrjll" method="POST">
+
+  <div id="error_data" style="color:red; margin-bottom:15px;"></div>
+
+  <div class="row">
+
+    <div class="col-lg-6 col-md-6">
+      <div class="input-area">
+        <input type="text" id="name" name="name" placeholder="Full Name" required>
+      </div>
+    </div>
+
+    <div class="col-lg-6 col-md-6">
+      <div class="input-area">
+        <input type="email" id="email" name="email" placeholder="Email Address" required>
+      </div>
+    </div>
+
+    <div class="col-lg-6 col-md-6">
+      <div class="input-area">
+     <input type="text" name="phone" id="contact_no" maxlength="10" placeholder="Phone Number" required>
+
+      </div>
+    </div>
+
+    <div class="col-lg-6 col-md-6">
+      <div class="input-area">
+        <input type="text" id="subject" name="subject" placeholder="Subject">
+      </div>
+    </div>
+
+    <div class="col-lg-12">
+      <div class="input-area">
+        <input type="text" id="budget" name="budget" placeholder="Your Budget (optional)">
+      </div>
+    </div>
+
+    <div class="col-lg-12">
+      <div class="input-area">
+        <textarea id="message" name="message" placeholder="Message" required></textarea>
+      </div>
+    </div>
+
+    <div class="col-lg-12">
+      <div class="input-area">
+        <button type="submit" class="vl-btn1">
+          Send <img src="assets/img/icons/mail1.svg" alt="">
+        </button>
+
+        <!-- Loader text -->
+        <div id="form_process" style="visibility:hidden; margin-top:10px; color:#fff;">
+          Sending...
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</form>
+
+          <!-- ⭐️ FIXED FORM END -->
+
+        </div>
+
+      </div>
+
+      <div class="col-lg-12">
+        <div class="space50"></div>
+        <div class="footer-area">
+          <div class="btn-area1">
+            <a href="index1.php"><img src="assets/img/logo/logo1.png" alt=""></a>
+          </div>
+          <p>© 2024 OVRO. All Rights Reserved.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+<!--===== CONTACT AREA ENDS =======-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             <!--===== CONTACT AREA STARTS =======-->
-            <div class="contact-section-area">
+            <!-- <div class="contact-section-area">
               <div class="container">
                 <div class="row">
                   <div class="col-lg-12">
@@ -1054,7 +1190,7 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div> -->
             <!--===== CONTACT AREA ENDS =======-->
           </div>
 
