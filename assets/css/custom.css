@@ -1,0 +1,146 @@
+.main-hero-area5 .hero-heading-area .arrow .images {
+    display: flex;
+    align-items: center;
+    width: 220px;
+    gap: 15px;
+}
+.header-area.homepage1 .header-elements .site-logo img {
+    width: 250px;
+    height: 40px;
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+
+.socialIcon{
+    width:40px;
+        height:40px;
+    padding-right: 10px;
+}
+
+
+.social-link-area ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.social-link-area ul li {
+    display: flex;
+    justify-content: center;  /* centers icons horizontally */
+    gap: 15px;                /* spacing between icons */
+}
+
+.socialIcon i {
+    font-size: 20px;
+}
+
+a.socialIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.img12 video {
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+  object-fit: cover;
+  display: block;
+}
+
+.music-video {
+  width: 100%;
+  height: 170px;   /* EXACT same as your portfolio image height */
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.videoRow{
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.videoCard{
+    width: 45%;
+    gap: 1%;
+}
+
+
+
+.col-lg-6.col-md-6.mb-4.aos-init.aos-animate {
+    width: 48%;
+    height: 220px;
+}
+
+
+
+
+
+
+
+.book-tabs {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.book-tab {
+  padding: 10px 22px;
+  border: 1px solid #ffffff50;
+  background: transparent;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.book-tab.active,
+.book-tab:hover {
+  background: #f5a623;
+  border-color: #f5a623;
+  color: #000;
+}
+
+.book-tab-content {
+  display: none;
+}
+
+.portfolio-boxarea2 .img1 img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+
+.skill-section-area .skill-boxarea .icons {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    transition: all 0.4s;
+    border-radius: 8px;
+    text-align: center;
+    line-height: 50px;
+    background: rgba(255, 255, 255, 0.1);
+    -webkit-backdrop-filter: blur(100px);
+    backdrop-filter: blur(100px);
+}
+
+.icons  img {
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.skill-boxarea {
+    padding: 15px 0px 15px 0px !important;
+}
+
+.skill-section-area .skill-boxarea p {
+  
+    font-size: 14PX;
+
+}

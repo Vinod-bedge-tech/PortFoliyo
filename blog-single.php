@@ -40,6 +40,7 @@
         <div class="sidebar-content">
           <ul>
             <li><a href="#list-item-1">Home</a></li>
+                <li><a href="index.php">Home</a></li>
             <li><a href="#list-item-2">About Us</a></li>
             <li><a href="#list-item-3">service</a></li>
             <li><a href="#list-item-4">Skill</a></li>

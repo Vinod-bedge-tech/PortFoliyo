@@ -24,6 +24,7 @@
           <div class="personal-contact-box" data-aos="fade-right" data-aos-duration="1000">
             <div id="list-example" class="list-group">
               <a class="list-group-item list-group-item-action active" href="#list-item-1"><img src="assets/img/icons/home1.svg" alt=""><span>Home</span></a>
+                      <a class="list-group-item list-group-item-action active" href="index6.php"><img src="assets/img/icons/home4.svg" alt=""><span>Home</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-2"><img src="assets/img/icons/home2.svg" alt=""> <span>About Us</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-3"><img src="assets/img/icons/home3.svg" alt=""> <span>Our Service</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-4"><img src="assets/img/icons/home4.svg" alt=""> <span>My Skill</span></a>
@@ -32,9 +33,24 @@
               <a class="list-group-item list-group-item-action" href="#list-item-7"><img src="assets/img/icons/home8.svg" alt=""> <span>Our Blog</span></a>
               <a class="list-group-item list-group-item-action m-0" href="#list-item-8"><img src="assets/img/icons/home7.svg" alt=""> <span>Contact Us</span></a>
             </div>
-            <div class="img1 image-anime reveal">
+
+
+
+            <!-- <div class="img1 image-anime reveal">
               <img src="assets/img/all-images/hero/hero-img1.png" alt="">
-            </div>
+            </div> -->
+
+<div class="img1 image-anime reveal my-slider">
+  <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+  <img src="assets/img/all-images/hero/hero-img2.png" alt="">
+  <img src="assets/img/all-images/hero/hero-img3.png" alt="">
+</div>
+
+
+
+
+
+
             <div class="space18"></div>
             <h3>Alex Carry</h3>
             <div class="space16"></div>
@@ -103,99 +119,147 @@
                     <div class="about-main-boxes">
                       <h4>Alex Carry</h4>
                       <div class="space24"></div>
-                      <p>Hi, I’m Alex Carry, a dedicated UI/UX Designer with 10 years of experience creating meaningful digital experiences. I specialize in crafting user-centered designs that enhance engagement and drive results. By combining research, creativity, and technical skills, I deliver solutions that not only look great but also function seamlessly. </p>
-                    </div>
-                  </div>
-                  <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="900">
-                    <div class="about-boxes2">
-                      <img src="assets/img/icons/home2.svg" alt="">
-                      <div class="content-area">
-                        <h4>UI/UX Design</h4>
-                        <div class="space16"></div>
-                        <p>Designing intuitive, user-focused interfaces that prioritize functionality & seamless navigation.</p>
-                      </div>
+                      <p>Hi, I’m Alex — a Web Developer with over 3 years of experience building modern, responsive, and secure digital experiences. I focus on creating user-centered designs that balance aesthetics with functionality. My work combines creativity, strategic planning, and technical precision to deliver websites that perform well and meet real business needs. I’m committed to staying updated with the latest technologies to produce innovative, dependable solutions. </p>
                     </div>
                   </div>
 
-                  <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1000">
-                    <div class="about-boxes2">
-                      <img src="assets/img/icons/home3.svg" alt="">
-                      <div class="content-area">
-                        <h4>User Research & Prototyping</h4>
-                        <div class="space16"></div>
-                        <p>Conducting in-depth user research and creating interactive prototypes to validate ideas and refine designs.</p>
-                      </div>
-                    </div>
-                  </div>
 
-                  <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1100">
-                    <div class="about-boxes2">
-                      <img src="assets/img/icons/home4.svg" alt="">
-                      <div class="content-area">
-                        <h4>Responsive Web Design</h4>
-                        <div class="space16"></div>
-                        <p>Crafting designs  adapt seamlessly across all devices ensuring and  a  consistent user experience.</p>
-                      </div>
-                    </div>
-                  </div>
 
-                  <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1200">
-                    <div class="about-boxes2">
-                      <img src="assets/img/icons/home5.svg" alt="">
-                      <div class="content-area">
-                        <h4>Wireframing & Visual Design</h4>
-                        <div class="space16"></div>
-                        <p>Creating detailed wireframes and visually stunning designs to bring ideas into focus.</p>
-                      </div>
-                    </div>
-                  </div>
+
+<!-- 
+
+
+         <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="900">
+  <div class="about-boxes2">
+    <img src="assets/img/icons/home2.svg" alt="">
+    <div class="content-area">
+      <h4>UI/UX Design</h4>
+      <div class="space16"></div>
+      <p>Designing clean, intuitive, and user-friendly interfaces that create seamless digital experiences.</p>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1000">
+  <div class="about-boxes2">
+    <img src="assets/img/icons/home3.svg" alt="">
+    <div class="content-area">
+      <h4>Web Development</h4>
+      <div class="space16"></div>
+      <p>Building fast, scalable, and modern websites tailored to business needs and long-term growth.</p>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1100">
+  <div class="about-boxes2">
+    <img src="assets/img/icons/home4.svg" alt="">
+    <div class="content-area">
+      <h4>E-commerce Solutions</h4>
+      <div class="space16"></div>
+      <p>Creating high-conversion Shopify & WooCommerce stores with smooth checkout and custom features.</p>
+    </div>
+  </div>
+</div>
+
+<div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1200">
+  <div class="about-boxes2">
+    <img src="assets/img/icons/home5.svg" alt="">
+    <div class="content-area">
+      <h4>SEO & Digital Marketing</h4>
+      <div class="space16"></div>
+      <p>Boosting online visibility through SEO, audits, and targeted digital marketing strategies.</p>
+    </div>
+  </div>
+</div> -->
+
+
+
+
+
                   <div class="soace20"></div>
-                  <div class="col-lg-6 col-md-6">
-                    <h3>Work Experience</h3>
-                    <div class="space32"></div>
-                    <div class="about-others-box" data-aos="zoom-in" data-aos-duration="900">
-                      <a href="#">2015-2020</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">UI/UX Designer</a> </h4>
-                      <div class="space16"></div>
-                      <p>Creative Spark Agency</p>
-                      <div class="space32"></div>
-                      <a href="#">2020 - Present</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">Senior UI/UX Designer </a></h4>
-                      <div class="space16"></div>
-                      <p>Visionary Tech</p>
-                    </div>
-                    <div class="about-others-box text-center" data-aos="zoom-in" data-aos-duration="1000">
-                      <h4>Stay With Me </h4>
-                      <div class="space18"></div>
-                      <ul>
-                        <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
-                        <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li>
-                        <li><a href="#"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li>
-                        <li><a href="#"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
-                        <li><a href="#" class="m-0"><img src="assets/img/icons/s-icon5.svg" alt=""></a></li>
-                      </ul>
-                    </div>
-                  </div>
+            <div class="col-lg-6 col-md-6">
+    <h3>Work Experience</h3>
+    <div class="space32"></div>
 
-                  <div class="col-lg-6 col-md-6">
-                    <h3>Education</h3>
-                    <div class="space32"></div>
-                    <div class="about-others-box" data-aos="zoom-in" data-aos-duration="1100">
-                      <a href="#">2010 - 2013</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">Bachelor's Degree in Graphic Design</a> </h4>
-                      <div class="space16"></div>
-                      <p>University of California</p>
-                      <div class="space32"></div>
-                      <a href="#">2013 - 2015</a>
-                      <div class="space16"></div>
-                      <h4><a href="#">Master's Degree in User Experience Design</a></h4>
-                      <div class="space16"></div>
-                      <p>Massachusetts Institute of Technology (MIT)</p>
-                    </div>
-                  </div>
+    <div class="about-others-box" data-aos="zoom-in" data-aos-duration="900">
+    
+        <a href="#">Oct 2025 - Present</a>
+        <div class="space16"></div>
+        <h4><a href="#">Web Developer</a></h4>
+        <div class="space16"></div>
+        <p>bEdge Tech Services</p>
+        <div class="space32"></div>
+
+
+
+
+            <a href="#">2023 - Oct 2025</a>
+        <div class="space16"></div>
+        <h4><a href="#">Web Developer</a></h4>
+        <div class="space16"></div>
+        <p>CompuBrain Pvt Ltd</p>
+    </div>
+
+    <div class="about-others-box text-center" data-aos="zoom-in" data-aos-duration="1000">
+        <h4>Stay Connected</h4>
+        <div class="space18"></div>
+        <ul>
+            <li><a href="#"><img src="assets/img/icons/s-icon1.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/s-icon2.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/s-icon3.svg" alt=""></a></li>
+            <li><a href="#"><img src="assets/img/icons/s-icon4.svg" alt=""></a></li>
+            <li><a href="#" class="m-0"><img src="assets/img/icons/s-icon5.svg" alt=""></a></li>
+        </ul>
+    </div>
+</div>
+
+
+             <div class="col-lg-6 col-md-6">
+    <h3>Education</h3>
+    <div class="space32"></div>
+
+    <div class="about-others-box " data-aos="zoom-in" data-aos-duration="1100">
+
+        <a href="#">2024 - 2026</a>
+        <div class="space16"></div>
+        <h4><a href="#">MCA</a></h4>
+        <div class="space16"></div>
+        <p>GLA University</p>
+
+        <div class="space32"></div>
+
+        <a href="#">2020 - 2023</a>
+        <div class="space16"></div>
+        <h4><a href="#">BCA</a></h4>
+        <div class="space16"></div>
+        <p>United Institute of Management – FUGS</p>
+
+    </div>
+    
+
+<div class="about-others-box text-center" data-aos="zoom-in" data-aos-duration="1100">
+
+    <h4>Send a Message </h4>
+    <div class="space10"></div>
+
+
+   
+
+   <a href="#">+91 9876543210</a>
+        <div class="space10"></div>
+  <a href="#"> yourmail@example.com </a>
+
+   
+
+</div>
+
+
+
+
+
+</div>
+
                   <div class="space20"></div>
                 </div>
               </div>
@@ -204,166 +268,405 @@
           </div>
 
           <div id="list-item-3">
+
+
+
+
+
             <!--===== SERVICE AREA STARTS =======-->
-            <div class="service-section-area">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-12">
-                    <div class="service-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">My Services</h5>
-                      <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">Elevating Brands</h2>
-                      <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Intuitive <span>Design</span></h2>
-                      <div class="space50"></div>
-                     <div class="div" data-aos="fade-left" data-aos-duration="900">
-                      <div class="service-main-boxes" >
-                        <h4>UI/UX Design</h4>
-                        <div class="space24"></div>
-                        <p>Designing intuitive, user-focused interfaces that prioritize functionality and seamless navigation.</p>
-                      </div>
-                     </div>
-                      <div class="space30"></div>
-                      <div class="div" data-aos="fade-left" data-aos-duration="1000">
-                        <div class="service-main-boxes">
-                          <h4>User Research & Prototyping</h4>
-                          <div class="space24"></div>
-                          <p>Conducting in-depth user research and creating interactive prototypes to validate ideas and refine designs.</p>
-                        </div>
-                      </div>
-                      <div class="space30"></div>
-                      <div class="div" data-aos="fade-left" data-aos-duration="1100">
-                        <div class="service-main-boxes">
-                          <h4>Responsive Web Design</h4>
-                          <div class="space24"></div>
-                          <p>Crafting designs that adapt seamlessly across all devices, ensuring a consistent user experience.</p>
-                        </div>
-                      </div>
-                      <div class="space30"></div>
-                      <div class="div" data-aos="fade-left" data-aos-duration="1200">
-                        <div class="service-main-boxes">
-                          <h4>Wireframing & Visual Design</h4>
-                          <div class="space24"></div>
-                          <p>Creating detailed wireframes and visually stunning designs to bring ideas into focus.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+
+<!--===== SERVICE AREA STARTS =======-->
+<div class="about-section-area">
+  <div class="heading1">
+    <h5 data-aos="fade-left" data-aos-duration="800">
+      <img src="assets/img/icons/sublogo1.svg" alt=""> My Services
+    </h5>
+
+    <div class="space24"></div>
+    <h1 data-aos="fade-left" data-aos-duration="1000">Services That </h1>
+
+    <div class="space24"></div>
+    <h1 class="head" data-aos="fade-left" data-aos-duration="1100">
+     Elevate <span> Your Growth  </span>
+    </h1>
+  </div>
+
+  <div class="space60"></div>
+
+  <div class="about-boxarea">
+    <div class="row">
+
+ 
+
+            <!-- Software Development -->
+      <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1150">
+        <div class="about-boxes2">
+          <img src="assets/img/icons/home3.svg" alt="">
+          <div class="content-area">
+            <h4>Software Development</h4>
+            <div class="space16"></div>
+            <p>Developing secure, scalable, and efficient software solutions for businesses.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Web Development -->
+      <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="950">
+        <div class="about-boxes2">
+          <img src="assets/img/icons/home3.svg" alt="">
+          <div class="content-area">
+            <h4>Website Development</h4>
+            <div class="space16"></div>
+            <p>Building fast, dynamic, and scalable websites optimized for performance and growth.</p>
+          </div>
+        </div>
+      </div>
+
+        <!-- WordPress Development -->
+      <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1100">
+        <div class="about-boxes2">
+          <img src="assets/img/icons/home2.svg" alt="">
+          <div class="content-area">
+            <h4>WordPress Development</h4>
+            <div class="space16"></div>
+            <p>Custom themes, CMS setup, and performance-focused WordPress websites.</p>
+          </div>
+        </div>
+      </div>
+
+
+
+
+      <!-- E-commerce Solutions -->
+      <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1000">
+        <div class="about-boxes2">
+          <img src="assets/img/icons/home4.svg" alt="">
+          <div class="content-area">
+            <h4>E-commerce Solutions</h4>
+            <div class="space16"></div>
+            <p>Creating high-conversion online stores with Shopify & WooCommerce, including full setup and custom features.</p>
+          </div>
+        </div>
+      </div>
+
+
+            <!-- SEO & Digital Marketing -->
+      <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1050">
+        <div class="about-boxes2">
+          <img src="assets/img/icons/home5.svg" alt="">
+          <div class="content-area">
+            <h4>SEO & Digital Marketing</h4>
+            <div class="space16"></div>
+            <p>Boosting visibility through SEO audits, keyword strategy, and targeted digital marketing campaigns.</p>
+          </div>
+        </div>
+      </div>
+ 
+
+
+            <!-- Website Maintenance -->
+      <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1200">
+        <div class="about-boxes2">
+          <img src="assets/img/icons/home4.svg" alt="">
+          <div class="content-area">
+            <h4>Website Maintenance</h4>
+            <div class="space16"></div>
+            <p>Regular updates, security checks, bug fixes, and performance improvements.</p>
+          </div>
+        </div>
+      </div>
+
+
+
+
+          <!-- UI/UX Design -->
+      <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="900">
+        <div class="about-boxes2">
+          <img src="assets/img/icons/home2.svg" alt="">
+          <div class="content-area">
+            <h4>UI/UX Design</h4>
+            <div class="space16"></div>
+          <p>Designing intuitive interfaces with Figma wireframes, interactive prototypes, and user-centered design systems.</p>
+
+          </div>
+        </div>
+      </div>
+
+         <!-- Graphic Designing -->
+      <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1300">
+        <div class="about-boxes2">
+          <img src="assets/img/icons/home2.svg" alt="">
+          <div class="content-area">
+            <h4>Graphic Designing</h4>
+            <div class="space16"></div>
+            <p>Logos, branding, marketing creatives, and visually engaging digital assets.</p>
+          </div>
+        </div>
+      </div>
+
+    
+
+
+
+      <!-- User Research & Prototyping -->
+      <!-- <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1250">
+        <div class="about-boxes2">
+          <img src="assets/img/icons/home5.svg" alt="">
+          <div class="content-area">
+            <h4>User Research & Prototyping</h4>
+            <div class="space16"></div>
+            <p>Validating ideas with deep user research and interactive prototypes for better usability.</p>
+          </div>
+        </div>
+      </div> -->
+
+   
+   
+      <!-- <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1350">
+        <div class="about-boxes2">
+          <img src="assets/img/icons/home3.svg" alt="">
+          <div class="content-area">
+            <h4>SEO Optimization & Audit</h4>
+            <div class="space16"></div>
+            <p>Improving search rankings using technical SEO, content strategy, and in-depth audits.</p>
+          </div>
+        </div>
+      </div>
+
+    
+      <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1400">
+        <div class="about-boxes2">
+          <img src="assets/img/icons/home4.svg" alt="">
+          <div class="content-area">
+            <h4>Digital Marketing</h4>
+            <div class="space16"></div>
+            <p>Driving brand growth with social media marketing, ad campaigns, and content strategies.</p>
+          </div>
+        </div>
+      </div> -->
+
+
+
+
+    </div>
+  </div>
+</div>
+<!--===== SERVICE AREA ENDS =======-->
+
+
+
             <!--===== SERVICE AREA ENDS =======-->
           </div>
           <div class="space50"></div>
+
+
           <div id="list-item-4">
-            <!--===== SKILL AREA STARTS =======-->
-            <div class="skill-section-area">
-              <div class="container">
-                <div class="row">
-                  <div class="col-gl-12">
-                    <div class="skill-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">My Skill</h5>
-                      <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">The Tools Behind </h2>
-                      <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Exceptional <span>Design</span></h2>
-                    </div>
-                    <div class="space80"></div>
-                    <div class="row">
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="900">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill1.svg" alt="">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">96</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Figma</p>
-                        </div>
-                      </div>
 
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill2.svg" alt="">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">87</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Photoshop</p>
-                        </div>
-                      </div>
 
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1100">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill3.svg" alt="">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">90</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Illustrator</p>
-                        </div>
-                      </div>
+<!--===== SKILL AREA STARTS =======-->
+<div class="skill-section-area">
+  <div class="container">
+    <div class="row">
+      <div class="col-gl-12">
 
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill4.svg" alt="">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">89</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Sketch</p>
-                        </div>
-                      </div>
+        <div class="skill-header heading1">
+          <h5 data-aos="fade-left" data-aos-duration="800">
+            <img src="assets/img/icons/sublogo1.svg" alt="">My Skills
+          </h5>
+          <div class="space24"></div>
+          <h2 data-aos="fade-left" data-aos-duration="1000">Skills & Tools
+ </h2>
+          <div class="space24"></div>
+          <h2 class="head" data-aos="fade-left" data-aos-duration="1100">
+         Behind <span>My Works</span>
+          </h2>
+        </div>
 
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill5.svg" alt="">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">92</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Adobe XD</p>
-                        </div>
-                      </div>
+        <div class="space60"></div>
 
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-out" data-aos-duration="11000">
-                        <div class="skill-boxarea">
-                          <div class="icons">
-                            <img src="assets/img/icons/skill6.svg" alt="" class="Wordpress">
-                          </div>
-                          <div class="space24"></div>
-                          <h3><span class="counter">85</span>%</h3>
-                          <div class="space16"></div>
-                          <p>Wordpress</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+      <div class="row">
+
+
+          <!-- JavaScript -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="900">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/js.png" alt="">
               </div>
+              <div class="space16"></div>
+              <p>JavaScript</p>
             </div>
+          </div>
+
+          <!-- Node.js -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="950">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/node.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>Node.js</p>
+            </div>
+          </div>
+
+          <!-- React -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1000">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/react.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>React</p>
+            </div>
+          </div>
+
+          <!-- CSS -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1050">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/css.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>CSS</p>
+            </div>
+          </div>
+
+          <!-- HTML -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1100">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/html.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>HTML</p>
+            </div>
+          </div>
+
+
+          <!-- Excel -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1150">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/excel.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>Excel</p>
+            </div>
+          </div>
+
+          <!-- MongoDB -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1200">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/mongodb.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>MongoDB</p>
+            </div>
+          </div>
+
+          <!-- Shopify -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1250">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/shopify.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>Shopify</p>
+            </div>
+          </div>
+
+          <!-- SEO -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1300">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/seo.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>SEO</p>
+            </div>
+          </div>
+
+          <!-- PHP -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1350">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/php.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>PHP</p>
+            </div>
+          </div>
+
+          <!-- WordPress -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1400">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/wordpress-ico.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>WordPress</p>
+            </div>
+          </div>
+
+          <!-- SQL -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1450">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/sql.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>SQL</p>
+            </div>
+          </div>
+
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+<!--===== SKILL AREA ENDS =======-->
+
+
             <!--===== SKILL AREA ENDS =======-->
           </div>
           <div class="space30"></div>
           <div id="list-item-5">
+
+
+          
             <!--===== PORTFOLIO AREA STARTS =======-->
             <div class="portfolio-section-area">
               <div class="container">
                 <div class="row">
                   <div class="col-lg-12">
-                    <div class="portfolio-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">My Portfolio</h5>
-                      <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">Innovation Designs</h2>
-                      <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">Real <span>Results</span></h2>
-                    </div>
+
+
+  <div class="skill-header heading1">
+          <h5 data-aos="fade-left" data-aos-duration="800">
+            <img src="assets/img/icons/sublogo1.svg" alt="">My Portfolio
+          </h5>
+          <div class="space24"></div>
+          <h2 data-aos="fade-left" data-aos-duration="1000">Worked Across
+ </h2>
+          <div class="space24"></div>
+          <h2 class="head" data-aos="fade-left" data-aos-duration="1100">
+         Diverse <span>Industries </span>
+          </h2>
+        </div>
+
+
+
+
+
                   </div>
                   <div class="space50"></div>
+
+
+
+
                   <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1000">
                     <div class="portfolio-boxarea click-here">
                       <div class="img1">
@@ -411,6 +714,8 @@
                       <a href="javascript:void(0)">Reelup - E commercer Video Platform</a>
                     </div>
                   </div>
+
+                  
                 </div>
               </div>
             </div>

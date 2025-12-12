@@ -23,7 +23,9 @@
       <div class="col-lg-4">
           <div class="personal-contact-box" data-aos="fade-right" data-aos-duration="1000">
             <div id="list-example" class="list-group">
-              <a class="list-group-item list-group-item-action active" href="#list-item-1"><img src="assets/img/icons/home1.svg" alt=""><span>Home</span></a>
+           
+                                 <a class="list-group-item list-group-item-action active" href="index.php"><img src="assets/img/icons/home4.svg" alt=""><span>Home</span></a> 
+                                 <a class="list-group-item list-group-item-action active" href="index6.php"><img src="assets/img/icons/home1.svg" alt=""><span>Intrests</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-2"><img src="assets/img/icons/home2.svg" alt=""> <span>About Us</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-3"><img src="assets/img/icons/home3.svg" alt=""> <span>Our Service</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-4"><img src="assets/img/icons/home4.svg" alt=""> <span>My Skill</span></a>
@@ -32,9 +34,25 @@
               <a class="list-group-item list-group-item-action" href="#list-item-7"><img src="assets/img/icons/home8.svg" alt=""> <span>Our Blog</span></a>
               <a class="list-group-item list-group-item-action m-0" href="#list-item-8"><img src="assets/img/icons/home7.svg" alt=""> <span>Contact Us</span></a>
             </div>
-            <div class="img1 image-anime reveal">
+
+
+
+
+
+            <!-- <div class="img1 image-anime reveal">
               <img src="assets/img/all-images/hero/hero-img1.png" alt="">
-            </div>
+            </div> -->
+
+
+<div class="img1 image-anime reveal my-slider">
+  <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+  <img src="assets/img/all-images/hero/hero-img2.png" alt="">
+  <img src="assets/img/all-images/hero/hero-img3.png" alt="">
+</div>
+
+
+
+
             <div class="space18"></div>
             <h3>Alex Carry</h3>
             <div class="space16"></div>
@@ -60,13 +78,15 @@
           <!--===== HERO AREA STARTS =======-->
           <div id="list-item-1">
             <div class="hero-heading-area heading1">
-              <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Hi, I’m Alex, UI/UX Designer </h5>
+              <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">Hi, I’m John , Beyond My Work Life </h5>
               <div class="space24"></div>
-              <h1 data-aos="fade-left" data-aos-duration="900">Designing Intuitive </h1>
+              <h1 data-aos="fade-left" data-aos-duration="900">Passions Beyond 
+
+ </h1>
               <div class="space24"></div>
-              <h1 class="head" data-aos="fade-left" data-aos-duration="1000">Experiences <span>Inspire</span></h1>
+              <h1 class="head" data-aos="fade-left" data-aos-duration="1000">Work <span>That Inspire</span></h1>
               <div class="space24"></div>
-              <p data-aos="fade-left" data-aos-duration="1100">Your gateway to innovative design, seamless user experiences, and impactful solutions. Turning complex ideas into user-friendly designs. </p>
+              <p data-aos="fade-left" data-aos-duration="1100">Discover the personal interests that inspire my creativity, fuel my focus, and bring balance to my everyday life. These passions help me stay grounded, curious, and always improving — both as a creator and as a human. </p>
               <div class="arrow" data-aos="fade-left" data-aos-duration="1200">
                 <a href="#">
                   <img src="assets/img/elements/elements1.png" alt="" class="elements1 keyframe5">
@@ -74,13 +94,26 @@
                 </a>
 
                 <div class="images">
-                  <img src="assets/img/all-images/others/others1.png" alt="">
-                  <p>2k+ reviews <br> (4.90 of 5)</p>
+                <div class="social-link-area">
+      
+          <ul>
+            <li>
+              <!-- <a href="#"><i class="fa-brands fa-facebook-f"></i></a> -->
+              <a href="#" class="socialIcon"><i class="fa-brands fa-instagram"></i></a>
+              <a href="#" class="socialIcon"><i class="fa-brands fa-linkedin-in"></i></a>
+              <!-- <a href="#"><i class="fa-brands fa-pinterest-p"></i></a> -->
+              <!-- <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
+            </li>
+          </ul>
+        </div>
+                  <p>Stay 
+
+ <br> Connected</p>
                 </div>
               </div>
               <div class="space32"></div>
               <div class="main-btn-area" data-aos="fade-up" data-aos-duration="1200">
-                <a href="#">Lets Work Together <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                <a href="#">Start a Conversation<span><i class="fa-solid fa-arrow-right"></i></span></a>
               </div>
             </div>
           </div>
@@ -90,11 +123,11 @@
             <!--===== ABOUT AREA STARTS =======-->
             <div class="about-section-area">
               <div class="heading1">
-                <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">About Us</h5>
+                <h5 data-aos="fade-left" data-aos-duration="800"><img src="assets/img/icons/sublogo1.svg" alt="">A Bit About Me </h5>
                 <div class="space24"></div>
-                <h1 data-aos="fade-left" data-aos-duration="1000">Crafting Seamless</h1>
+                <h1 data-aos="fade-left" data-aos-duration="1000">The Person  </h1>
                 <div class="space24"></div>
-                <h1 class="head" data-aos="fade-left" data-aos-duration="1100">User <span>Experiences</span></h1>
+                <h1 class="head" data-aos="fade-left" data-aos-duration="1100">Behind <span>the Work</span></h1>
               </div>
               <div class="space60"></div>
               <div class="about-boxarea">
@@ -103,16 +136,27 @@
                     <div class="about-main-boxes">
                       <h4>Alex Carry</h4>
                       <div class="space24"></div>
-                      <p>Hi, I’m Alex Carry, a Web Developer with 3+ years of experience creating versatile and modern digital solutions. I specialize in crafting designs and functionalities that are responsive, secure, and user-friendly, delivering real results for both businesses and users. I take a user-centered approach to every project, combining creativity, technical expertise, and proper planning to ensure websites look great, perform well, and meet the goals of clients and users alike. My passion lies in continuously learning and applying the latest technologies to provide innovative and reliable solutions. </p>
+                      <p>Hi, I’m John, a Web Developer who loves creating clean, intuitive, and meaningful digital experiences. But beyond my work life, there’s a creative side that keeps me inspired and balanced every day.
+This page is a small look into that world — the interests that shape my mindset and fuel my ideas.
+
+Along with designing and coding, I enjoy exploring passions like keyboard playing, reading books, learning new skills, and noticing the small moments that spark creativity. These interests remind me that inspiration doesn’t come only from work, but from living a curious and expressive life.
+
+My journey is a blend of continuous learning, personal creativity, and calm moments that keep me grounded. Each passion - whether music, reading, or discovering something new - adds meaning to both my work and who I’m becoming. </p>
                     </div>
                   </div>
                   <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="900">
                     <div class="about-boxes2">
                       <img src="assets/img/icons/home2.svg" alt="">
                       <div class="content-area">
-                        <h4>UI/UX Design</h4>
+                        <h4>Keyboard & Music</h4>
                         <div class="space16"></div>
-                        <p>Designing intuitive, user-focused interfaces that prioritize functionality & seamless navigation.</p>
+                      <p>
+I like playing the keyboard, and it has become a meaningful part of my everyday life. 
+I’m learning more and more day by day, and each new melody teaches me something - patience, rhythm, 
+and the joy of slow, steady progress. 
+<br><br>
+“Without music, life would be a mistake.” - Friedrich Nietzsche
+</p>
                       </div>
                     </div>
                   </div>
@@ -121,9 +165,15 @@
                     <div class="about-boxes2">
                       <img src="assets/img/icons/home3.svg" alt="">
                       <div class="content-area">
-                        <h4>User Research & Prototyping</h4>
+                        <h4>Reading & Self-Growth</h4>
                         <div class="space16"></div>
-                        <p>Conducting in-depth user research and creating interactive prototypes to validate ideas and refine designs.</p>
+                      <p>
+I'm passionate about reading, and I always make time for the pages that teach me something new, shift my perspective, and help me understand life and emotions more clearly.
+Every book adds a small piece of wisdom to our journey.
+
+<br><br>
+“A reader lives a thousand lives before he dies.” — George R.R. Martin
+</p>
                       </div>
                     </div>
                   </div>
@@ -132,9 +182,15 @@
                     <div class="about-boxes2">
                       <img src="assets/img/icons/home4.svg" alt="">
                       <div class="content-area">
-                        <h4>Responsive Web Design</h4>
+                        <h4>Writing & Reflection</h4>
                         <div class="space16"></div>
-                        <p>Crafting designs  adapt seamlessly across all devices ensuring and  a  consistent user experience.</p>
+              <p>   I enjoy writing my thoughts and daily experiences, whether it's in a diary or simple notes. 
+It helps me slow down, understand myself better, and express what I often can’t say out loud. 
+Writing gives clarity, and clamness.<br>
+<br>
+“Writing is the painting of the voice.”<br>
+“The act of writing is the act of discovering what you believe.” — David Hare
+</p>
                       </div>
                     </div>
                   </div>
@@ -143,14 +199,32 @@
                     <div class="about-boxes2">
                       <img src="assets/img/icons/home5.svg" alt="">
                       <div class="content-area">
-                        <h4>Wireframing & Visual Design</h4>
+                        <h4>Learning New Skills</h4>
                         <div class="space16"></div>
-                        <p>Creating detailed wireframes and visually stunning designs to bring ideas into focus.</p>
+                 
+<p>
+I love learning new things and I try to explore anything that sparks my curiosity. 
+Whether it’s technology, creativity, or personal growth, discovering something new each day 
+helps me grow with a clearer perspective and a better mindset.
+<br><br>
+“A jack of all trades is a master of none, but oftentimes better than a master of one.”
+</p>
+
                       </div>
                     </div>
                   </div>
+
+
+
+
+
+
+
+
                   <div class="soace20"></div>
-                  <div class="col-lg-6 col-md-6">
+
+
+                  <!-- <div class="col-lg-6 col-md-6">
                     <h3>Work Experience</h3>
                     <div class="space32"></div>
                     <div class="about-others-box" data-aos="zoom-in" data-aos-duration="900">
@@ -195,7 +269,10 @@
                       <div class="space16"></div>
                       <p>Massachusetts Institute of Technology (MIT)</p>
                     </div>
-                  </div>
+                  </div> -->
+
+
+                  
                   <div class="space20"></div>
                 </div>
               </div>
@@ -204,8 +281,11 @@
           </div>
 
           <div id="list-item-3">
+
+
+          
             <!--===== SERVICE AREA STARTS =======-->
-            <div class="service-section-area">
+            <!-- <div class="service-section-area">
               <div class="container">
                 <div class="row">
                   <div class="col-lg-12">
@@ -277,7 +357,18 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                 </div>
               </div>
             </div>
-            <!--===== SERVICE AREA ENDS =======-->
+            ===== SERVICE AREA ENDS ======= -->
+
+
+
+
+
+
+
+
+
+
+
           </div>
           <div class="space50"></div>
           <div id="list-item-4">
@@ -373,8 +464,11 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
             </div> -->
 
 
+
+
+
             <!--===== SKILL AREA STARTS =======-->
-<div class="skill-section-area">
+<!-- <div class="skill-section-area">
   <div class="container">
     <div class="row">
       <div class="col-gl-12">
@@ -391,7 +485,6 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
 
         <div class="row">
 
-          <!-- HTML -->
           <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="900">
             <div class="skill-boxarea">
               <div class="icons">
@@ -404,162 +497,142 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
             </div>
           </div>
 
-          <!-- CSS -->
+
           <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
             <div class="skill-boxarea">
               <div class="icons">
                  <img src="assets/img/icons/skill3.svg" alt="">
               </div>
               <div class="space24"></div>
-              <!-- <h3><span class="counter">82</span>%</h3> -->
+   
               <div class="space16"></div>
               <p>CSS / Bootstrap / Tailwind</p>
             </div>
           </div>
 
-          <!-- JavaScript -->
+
           <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1100">
             <div class="skill-boxarea">
               <div class="icons">
          <img src="assets/img/icons/skill4.svg" alt="">
               </div>
-              <div class="space24"></div>
-              <!-- <h3><span class="counter">78</span>%</h3> -->
+    
               <div class="space16"></div>
               <p>JavaScript (ES6+)</p>
             </div>
           </div>
 
-          <!-- React -->
+
           <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
             <div class="skill-boxarea">
               <div class="icons">
                    <img src="assets/img/icons/skill3.svg" alt="">
               </div>
               <div class="space24"></div>
-              <!-- <h3><span class="counter">70</span>%</h3> -->
+     
               <div class="space16"></div>
               <p>React.js</p>
             </div>
           </div>
 
-          <!-- PHP -->
+ 
           <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="900">
             <div class="skill-boxarea">
               <div class="icons">
                <img src="assets/img/icons/skilL2.svg" alt="">
               </div>
               <div class="space24"></div>
-              <!-- <h3><span class="counter">75</span>%</h3> -->
+          
               <div class="space16"></div>
               <p>PHP</p>
             </div>
           </div>
 
-          <!-- WordPress -->
+   
           <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
             <div class="skill-boxarea">
               <div class="icons">
                 <img src="assets/img/icons/skill1.svg" alt="">
               </div>
               <div class="space24"></div>
-              <!-- <h3><span class="counter">72</span>%</h3> -->
+
               <div class="space16"></div>
               <p>WordPress</p>
             </div>
           </div>
 
-          <!-- WooCommerce -->
           <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1100">
             <div class="skill-boxarea">
               <div class="icons">
                    <img src="assets/img/icons/skill1.svg" alt="">
               </div>
               <div class="space24"></div>
-              <!-- <h3><span class="counter">70</span>%</h3> -->
+          
               <div class="space16"></div>
               <p>WooCommerce</p>
             </div>
           </div>
 
-          <!-- Shopify -->
+
           <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
             <div class="skill-boxarea">
               <div class="icons">
                 <img src="assets/img/icons/skill1.svg" alt="">
               </div>
               <div class="space24"></div>
-              <!-- <h3><span class="counter">64</span>%</h3> -->
+ 
               <div class="space16"></div>
               <p>Shopify</p>
             </div>
           </div>
 
-          <!-- SEO -->
+
           <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="900">
             <div class="skill-boxarea">
               <div class="icons">
       <img src="assets/img/icons/skill2.svg" alt="">
               </div>
               <div class="space24"></div>
-              <!-- <h3><span class="counter">72</span>%</h3> -->
+ 
               <div class="space16"></div>
               <p>SEO (On-page & Technical)</p>
             </div>
           </div>
 
-          <!-- Website Audit -->
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1000">
-            <div class="skill-boxarea">
-              <div class="icons">
-           <img src="assets/img/icons/skill1.svg" alt="">
-              </div>
-              <div class="space24"></div>
-              <!-- <h3><span class="counter">75</span>%</h3> -->
-              <div class="space16"></div>
-              <p>Website Audit</p>
-            </div>
-          </div>
 
-          <!-- Testing -->
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1100">
-            <div class="skill-boxarea">
-              <div class="icons">
-               <img src="assets/img/icons/skill1.svg" alt="">
-              </div>
-              <div class="space24"></div>
-              <!-- <h3><span class="counter">70</span>%</h3> -->
-              <div class="space16"></div>
-              <p>Website Testing</p>
-            </div>
-          </div>
-
-          <!-- Canva -->
-          <div class="col-lg-3 col-md-6" data-aos="zoom-out" data-aos-duration="1200">
-            <div class="skill-boxarea">
-              <div class="icons">
-                   <img src="assets/img/icons/skill1.svg" alt="">
-              </div>
-              <div class="space24"></div>
-              <!-- <h3><span class="counter">85</span>%</h3> -->
-              <div class="space16"></div>
-              <p>Canva</p>
-            </div>
-          </div>
+     
 
         </div>
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <!--===== SKILL AREA ENDS =======-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
             <!--===== SKILL AREA ENDS =======-->
           </div>
           <div class="space30"></div>
           <div id="list-item-5">
             <!--===== PORTFOLIO AREA STARTS =======-->
-            <div class="portfolio-section-area">
+            <!-- <div class="portfolio-section-area">
               <div class="container">
                 <div class="row">
                   <div class="col-lg-12">
@@ -621,156 +694,264 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                   </div>
                 </div>
               </div>
-            </div>
+            </div> -->
+
+
+
+
+
+
+
+
+            <!-- =====================================
+     My Music Moments (2x2 Video Grid)
+====================================== -->
+<div class="portfolio-section-area">
+  <div class="container">
+
+    <!-- HEADER ROW -->
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="portfolio-header heading1">
+          <h5 data-aos="fade-left" data-aos-duration="800">
+            <img src="assets/img/icons/sublogo1.svg" alt="">My Music Moments
+          </h5>
+          <div class="space24"></div>
+          <h2 data-aos="fade-left" data-aos-duration="1000">Melodies That Shape</h2>
+          <div class="space16"></div>
+          <h2 class="head" data-aos="fade-left" data-aos-duration="1100">
+            My <span>Journey</span>
+          </h2>
+          <div class="space24"></div>
+          <p class="section-desc" data-aos="fade-left" data-aos-duration="1200">
+            A few recordings from my journey of learning and enjoying the keyboard.
+          </p>
+        </div>
+      </div>
+    </div> <!-- END HEADER ROW -->
+
+    <div class="space50"></div>
+
+    <!-- VIDEO GRID ROW -->
+    <div class="row videoRow">
+
+      <!-- CARD 1 -->
+      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1000">
+        <div class="portfolio-boxarea2 click-here">
+          <div class="img12">
+            <video controls class="music-video">
+              <source src="assets/img/video/video4.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="space24"></div>
+          <a href="#">Soft Melody Practice</a>
+        </div>
+      </div>
+
+      <!-- CARD 2 -->
+      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1100">
+        <div class="portfolio-boxarea2 click-here">
+          <div class="img12">
+            <video controls class="music-video">
+              <source src="assets/img/video/video3.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="space24"></div>
+          <a href="#">Learning New Chords</a>
+        </div>
+      </div>
+
+      <!-- CARD 3 -->
+      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1200">
+        <div class="portfolio-boxarea2 click-here">
+          <div class="img12">
+            <video controls class="music-video">
+              <source src="assets/img/video/video1.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="space24"></div>
+          <a href="#">Finger Speed Practice</a>
+        </div>
+      </div>
+
+      <!-- CARD 4 -->
+      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1300">
+        <div class="portfolio-boxarea2 click-here">
+          <div class="img12">
+            <video controls class="music-video">
+              <source src="assets/img/video/video2.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="space24"></div>
+          <a href="#">Cover Tune Practice</a>
+        </div>
+      </div>
+
+    </div> <!-- END VIDEO ROW -->
+
+  </div> <!-- END CONTAINER -->
+</div> <!-- END PORTFOLIO SECTION -->
+
+
+
+
             <!--===== PORTFOLIO AREA ENDS =======-->
           </div>
+
+
           <div class="space30"></div>
           <div id="list-item-6">
             <!--===== TESTIMONIAL AREA STARTS =======-->
-            <div class="testimonial-section-area">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-12">
-                    <div class="testimonial-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Testimonial</h5>
-                      <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">What Client Says </h2>
-                      <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1100">About <span>  My Work</span></h2>
-                    </div>
-                    <div class="space60"></div>
-                  </div>
-                  <div class="col-lg-7 col-md-6" data-aos="zoom-in" data-aos-duration="900">
-                    <div class="testimonial-boxarea">
-                      <div class="list">
-                        <ul>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                        </ul>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20" fill="none">
-                          <path d="M13.077 4.99278C13.077 6.16612 13.3836 7.15145 13.997 7.94878C14.4316 8.49812 15.0214 8.859 15.7663 9.03145C16.4996 9.20212 17.193 9.21412 17.8196 9.06878C18.033 10.3354 17.6863 11.6768 16.8063 13.0981C15.9245 14.5186 14.7876 15.5866 13.3956 16.3021L15.5036 19.3354C16.5703 18.8074 17.5836 18.1381 18.517 17.3288C19.4636 16.5194 20.3036 15.5888 21.0503 14.5368C21.797 13.4848 22.357 12.2968 22.717 10.9501C23.077 9.60345 23.177 8.23012 23.005 6.81678C22.781 4.95012 22.1783 3.45678 21.197 2.35011C20.2165 1.22923 18.9952 0.668781 17.533 0.668781C16.2463 0.668781 15.1783 1.05545 14.333 1.83945C13.4965 2.60745 13.0787 3.65989 13.0796 4.99678L13.077 4.99278ZM0.911625 4.99278C0.911625 6.16612 1.21829 7.15145 1.83162 7.94878C2.26718 8.50878 2.85696 8.87189 3.60096 9.03812C4.34763 9.20256 5.03207 9.21234 5.65429 9.06745C5.86762 10.3208 5.53429 11.6674 4.65162 13.0941C3.77163 14.5074 2.63563 15.5741 1.24363 16.2941L3.34629 19.3354C4.41385 18.8074 5.41829 18.1386 6.35962 17.3288C7.31482 16.5074 8.16322 15.5694 8.88496 14.5368C9.62629 13.4834 10.1783 12.2968 10.5383 10.9501C10.904 9.6045 11.0023 8.20023 10.8276 6.81678C10.6063 4.95012 10.0063 3.45678 9.02762 2.35011C8.04985 1.23723 6.83074 0.680782 5.37029 0.680782C4.0814 0.679005 3.01385 1.06878 2.16762 1.85011C1.33118 2.61811 0.912514 3.67056 0.911625 5.00745V4.99278Z" fill="white"/>
-                        </svg>
-                      </div>
-                      <div class="space20"></div>
-                      <p>"Working with Alex was a game-changer for our brand. Their attention to detail and focus on creating a seamless user experience truly transformed our website. We’ve seen an incredible boost in user engagement and satisfaction."</p>
-                      <div class="space24"></div>
-                      <div class="mans-area">
-                        <div class="man">
-                          <img src="assets/img/all-images/testimonials/tesi-img1.png" alt="">
-                        </div>
-                        <div class="content">
-                          <a href="#">David Elson</a>
-                          <p>Ezhe Source</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-5 col-md-6" data-aos="zoom-in" data-aos-duration="1000">
-                    <div class="testimonial-boxarea">
-                      <div class="list">
-                        <ul>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                        </ul>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20" fill="none">
-                          <path d="M13.077 4.99278C13.077 6.16612 13.3836 7.15145 13.997 7.94878C14.4316 8.49812 15.0214 8.859 15.7663 9.03145C16.4996 9.20212 17.193 9.21412 17.8196 9.06878C18.033 10.3354 17.6863 11.6768 16.8063 13.0981C15.9245 14.5186 14.7876 15.5866 13.3956 16.3021L15.5036 19.3354C16.5703 18.8074 17.5836 18.1381 18.517 17.3288C19.4636 16.5194 20.3036 15.5888 21.0503 14.5368C21.797 13.4848 22.357 12.2968 22.717 10.9501C23.077 9.60345 23.177 8.23012 23.005 6.81678C22.781 4.95012 22.1783 3.45678 21.197 2.35011C20.2165 1.22923 18.9952 0.668781 17.533 0.668781C16.2463 0.668781 15.1783 1.05545 14.333 1.83945C13.4965 2.60745 13.0787 3.65989 13.0796 4.99678L13.077 4.99278ZM0.911625 4.99278C0.911625 6.16612 1.21829 7.15145 1.83162 7.94878C2.26718 8.50878 2.85696 8.87189 3.60096 9.03812C4.34763 9.20256 5.03207 9.21234 5.65429 9.06745C5.86762 10.3208 5.53429 11.6674 4.65162 13.0941C3.77163 14.5074 2.63563 15.5741 1.24363 16.2941L3.34629 19.3354C4.41385 18.8074 5.41829 18.1386 6.35962 17.3288C7.31482 16.5074 8.16322 15.5694 8.88496 14.5368C9.62629 13.4834 10.1783 12.2968 10.5383 10.9501C10.904 9.6045 11.0023 8.20023 10.8276 6.81678C10.6063 4.95012 10.0063 3.45678 9.02762 2.35011C8.04985 1.23723 6.83074 0.680782 5.37029 0.680782C4.0814 0.679005 3.01385 1.06878 2.16762 1.85011C1.33118 2.61811 0.912514 3.67056 0.911625 5.00745V4.99278Z" fill="white"/>
-                        </svg>
-                      </div>
-                      <div class="space20"></div>
-                      <p>"Alex exceeded all expectations with their innovative designs and collaborative approach. Reality that perfectly resonates with our audience."</p>
-                      <div class="space24"></div>
-                      <div class="mans-area">
-                        <div class="man">
-                          <img src="assets/img/all-images/testimonials/tesi-img2.png" alt="">
-                        </div>
-                        <div class="content">
-                          <a href="#">Chris Glasser</a>
-                          <p>Auto Works</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
 
-                  <div class="col-lg-5 col-md-6" data-aos="zoom-in" data-aos-duration="1100">
-                    <div class="testimonial-boxarea">
-                      <div class="list">
-                        <ul>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                        </ul>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20" fill="none">
-                          <path d="M13.077 4.99278C13.077 6.16612 13.3836 7.15145 13.997 7.94878C14.4316 8.49812 15.0214 8.859 15.7663 9.03145C16.4996 9.20212 17.193 9.21412 17.8196 9.06878C18.033 10.3354 17.6863 11.6768 16.8063 13.0981C15.9245 14.5186 14.7876 15.5866 13.3956 16.3021L15.5036 19.3354C16.5703 18.8074 17.5836 18.1381 18.517 17.3288C19.4636 16.5194 20.3036 15.5888 21.0503 14.5368C21.797 13.4848 22.357 12.2968 22.717 10.9501C23.077 9.60345 23.177 8.23012 23.005 6.81678C22.781 4.95012 22.1783 3.45678 21.197 2.35011C20.2165 1.22923 18.9952 0.668781 17.533 0.668781C16.2463 0.668781 15.1783 1.05545 14.333 1.83945C13.4965 2.60745 13.0787 3.65989 13.0796 4.99678L13.077 4.99278ZM0.911625 4.99278C0.911625 6.16612 1.21829 7.15145 1.83162 7.94878C2.26718 8.50878 2.85696 8.87189 3.60096 9.03812C4.34763 9.20256 5.03207 9.21234 5.65429 9.06745C5.86762 10.3208 5.53429 11.6674 4.65162 13.0941C3.77163 14.5074 2.63563 15.5741 1.24363 16.2941L3.34629 19.3354C4.41385 18.8074 5.41829 18.1386 6.35962 17.3288C7.31482 16.5074 8.16322 15.5694 8.88496 14.5368C9.62629 13.4834 10.1783 12.2968 10.5383 10.9501C10.904 9.6045 11.0023 8.20023 10.8276 6.81678C10.6063 4.95012 10.0063 3.45678 9.02762 2.35011C8.04985 1.23723 6.83074 0.680782 5.37029 0.680782C4.0814 0.679005 3.01385 1.06878 2.16762 1.85011C1.33118 2.61811 0.912514 3.67056 0.911625 5.00745V4.99278Z" fill="white"/>
-                        </svg>
-                      </div>
-                      <div class="space20"></div>
-                      <p>The designs delivered by [Your Name] were intuitive and engaging, making a significant difference in how users interacted with our platform."</p>
-                      <div class="space24"></div>
-                      <div class="mans-area">
-                        <div class="man">
-                          <img src="assets/img/all-images/testimonials/tesi-img3.png" alt="">
-                        </div>
-                        <div class="content">
-                          <a href="#">Rodger Struck</a>
-                          <p>Specialty Restaurant Group</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-7 col-md-6" data-aos="zoom-in" data-aos-duration="1200">
-                    <div class="testimonial-boxarea">
-                      <div class="list">
-                        <ul>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                          <li><i class="fa-solid fa-star"></i></li>
-                        </ul>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20" fill="none">
-                          <path d="M13.077 4.99278C13.077 6.16612 13.3836 7.15145 13.997 7.94878C14.4316 8.49812 15.0214 8.859 15.7663 9.03145C16.4996 9.20212 17.193 9.21412 17.8196 9.06878C18.033 10.3354 17.6863 11.6768 16.8063 13.0981C15.9245 14.5186 14.7876 15.5866 13.3956 16.3021L15.5036 19.3354C16.5703 18.8074 17.5836 18.1381 18.517 17.3288C19.4636 16.5194 20.3036 15.5888 21.0503 14.5368C21.797 13.4848 22.357 12.2968 22.717 10.9501C23.077 9.60345 23.177 8.23012 23.005 6.81678C22.781 4.95012 22.1783 3.45678 21.197 2.35011C20.2165 1.22923 18.9952 0.668781 17.533 0.668781C16.2463 0.668781 15.1783 1.05545 14.333 1.83945C13.4965 2.60745 13.0787 3.65989 13.0796 4.99678L13.077 4.99278ZM0.911625 4.99278C0.911625 6.16612 1.21829 7.15145 1.83162 7.94878C2.26718 8.50878 2.85696 8.87189 3.60096 9.03812C4.34763 9.20256 5.03207 9.21234 5.65429 9.06745C5.86762 10.3208 5.53429 11.6674 4.65162 13.0941C3.77163 14.5074 2.63563 15.5741 1.24363 16.2941L3.34629 19.3354C4.41385 18.8074 5.41829 18.1386 6.35962 17.3288C7.31482 16.5074 8.16322 15.5694 8.88496 14.5368C9.62629 13.4834 10.1783 12.2968 10.5383 10.9501C10.904 9.6045 11.0023 8.20023 10.8276 6.81678C10.6063 4.95012 10.0063 3.45678 9.02762 2.35011C8.04985 1.23723 6.83074 0.680782 5.37029 0.680782C4.0814 0.679005 3.01385 1.06878 2.16762 1.85011C1.33118 2.61811 0.912514 3.67056 0.911625 5.00745V4.99278Z" fill="white"/>
-                        </svg>
-                      </div>
-                      <div class="space20"></div>
-                      <p>"From wireframes to the final product, Alex brought creativity and functionality together beautifully. The final design not only looks fantastic but also works flawlessly across devices." </p>
-                      <div class="space24"></div>
-                      <div class="mans-area">
-                        <div class="man">
-                          <img src="assets/img/all-images/testimonials/tesi-img3.png" alt="">
-                        </div>
-                        <div class="content">
-                          <a href="#">Mary Freund</a>
-                          <p>Rink's</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
+
+
+    <!--===== BOOKS SECTION START =====-->
+<div class="portfolio-section-area">
+  <div class="container">
+
+    <!-- HEADER -->
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="portfolio-header heading1">
+          <h5 data-aos="fade-left" data-aos-duration="800">
+            <img src="assets/img/icons/sublogo1.svg" alt="">Books That Shaped Me
+          </h5>
+          <div class="space24"></div>
+          <h2 data-aos="fade-left" data-aos-duration="1000">Reading That Builds</h2>
+          <div class="space16"></div>
+          <h2 class="head" data-aos="fade-left" data-aos-duration="1100">
+            My <span>Mindset</span>
+          </h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="space40"></div>
+
+    <!-- TABS -->
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="book-tabs">
+          <button class="book-tab active" onclick="openBookTab(event, 'selfgrowth')">Self Growth</button>
+          <button class="book-tab" onclick="openBookTab(event, 'philosophy')">Philosophy</button>
+          <button class="book-tab" onclick="openBookTab(event, 'fiction')">Fiction</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="space40"></div>
+
+    <!-- TAB CONTENT: SELF GROWTH -->
+    <div id="selfgrowth" class="book-tab-content" style="display:block;">
+      <div class="row">
+
+        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <img src="assets/img/all-images/hero/hero-img1.png" alt="">
             </div>
+            <div class="space24"></div>
+            <a href="#">Atomic Habits</a>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <img src="assets/img/all-images/hero/hero-img2.png" alt="">
+            </div>
+            <div class="space24"></div>
+            <a href="#">Deep Work</a>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <img src="assets/img/all-images/hero/hero-img3.png" alt="">
+            </div>
+            <div class="space24"></div>
+            <a href="#">The Subtle Art of Not Giving a F</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- TAB CONTENT: PHILOSOPHY -->
+    <div id="philosophy" class="book-tab-content">
+      <div class="row">
+
+        <div class="col-lg-4 col-md-6">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+            </div>
+            <div class="space24"></div>
+            <a href="#">Meditations – Marcus Aurelius</a>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <img src="assets/img/all-images/hero/hero-img2.png" alt="">
+            </div>
+            <div class="space24"></div>
+            <a href="#">Beyond Good & Evil – Nietzsche</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- TAB CONTENT: FICTION -->
+    <div id="fiction" class="book-tab-content">
+      <div class="row">
+
+        <div class="col-lg-4 col-md-6">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <img src="assets/img/all-images/hero/hero-img3.png" alt="">
+            </div>
+            <div class="space24"></div>
+            <a href="#">The Alchemist</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</div>
+<!--===== BOOKS SECTION END =====-->
+
             <!--===== TESTIMONIAL AREA ENDS =======-->
+
+
+
+
           </div>
           <div class="space30"></div>
           <div id="list-item-7">
+
+
+
+
             <!--===== BLOG AREA STARTS =======-->
+
+
+
             <div class="blog-section-area">
               <div class="container">
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="blog-header heading1">
-                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">Our Blog</h5>
+                      <h5 data-aos="fade-left" data-aos-duration="900"><img src="assets/img/icons/sublogo1.svg" alt="">My Articles </h5>
                       <div class="space24"></div>
-                      <h2 data-aos="fade-left" data-aos-duration="1000">Our Latest Blog Idea </h2>
+                      <h2 data-aos="fade-left" data-aos-duration="1000">Welcome to Our  </h2>
                       <div class="space24"></div>
-                      <h2 class="head" data-aos="fade-left" data-aos-duration="1200">UI/UX <span>Trends</span></h2>
+                      <h2 class="head" data-aos="fade-left" data-aos-duration="1200">Daily  <span>  Life Blog</span> </h2>
                       <div class="space60"></div>
                       <div class="row">
                         <div class="col-lg-6 col-md-6">
@@ -883,7 +1064,17 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                 </div>
               </div>
             </div>
+
+
+
+
             <!--===== BLOG AREA ENDS =======-->
+
+
+
+
+
+
           </div>
           <div class="space60"></div>
           <div id="list-item-8">
@@ -986,7 +1177,7 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                         </div>
                         <div class="content">
                           <div class="tags-area">
-                            <a href="#">23 April 2024</a>
+                            <a href="#">23 April 202</a>
                             <a href="#">Alex Ross</a>
                           </div>
                           <a href="#">Crafting Compelling Designs and Strategic Marketing: A Creative Journey Unveiled</a>
@@ -1043,9 +1234,13 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
   </div>  
   <div class="bg-overlay"></div>
 </div> 
+
 <!--===== POPUP ENDS =======-->
 
 <?php include 'partials/footer-scripts.php' ?>
 
 </body>
+
+
+
 </html>
