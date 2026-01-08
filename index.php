@@ -24,7 +24,7 @@
           <div class="personal-contact-box" data-aos="fade-right" data-aos-duration="1000">
             <div id="list-example" class="list-group">
               <a class="list-group-item list-group-item-action active" href="#list-item-1"><img src="assets/img/icons/home1.svg" alt=""><span>Home</span></a>
-                     <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/home1.svg" alt=""><span>Intrests</span></a>
+                     <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/intrest.svg" alt=""><span>Intrests</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-2"><img src="assets/img/icons/home2.svg" alt=""> <span>About Us</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-3"><img src="assets/img/icons/home3.svg" alt=""> <span>Our Service</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-4"><img src="assets/img/icons/home4.svg" alt=""> <span>My Skill</span></a>
@@ -68,7 +68,7 @@
               <a href="assets/img/all-images/hero/cv.pdf" download class="vl-btn1">Download Now <img src="assets/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
-            <p>© 2024 OVRO. All Rights Reserved.</p>
+            <p>© 2025 VMTECH. All Rights Reserved.</p>
           </div>
       </div>
       <div class="col-lg-8">
@@ -637,89 +637,84 @@
 
 
 
-            <!--===== PORTFOLIO AREA STARTS =======-->
-            <div class="portfolio-section-area">
-              <div class="container">
-                <div class="row">
-                  <div class="col-lg-12">
+           <!--===== PORTFOLIO AREA STARTS =======-->
+<div class="portfolio-section-area">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
 
-
-  <div class="skill-header heading1">
+        <!-- KEEP YOUR HEADER SAME -->
+        <div class="skill-header heading1">
           <h5 data-aos="fade-left" data-aos-duration="800">
             <img src="assets/img/icons/sublogo1.svg" alt="">My Portfolio
           </h5>
           <div class="space24"></div>
-          <h2 data-aos="fade-left" data-aos-duration="1000">Worked Across
- </h2>
+          <h2 data-aos="fade-left" data-aos-duration="1000">Worked Across</h2>
           <div class="space24"></div>
           <h2 class="head" data-aos="fade-left" data-aos-duration="1100">
-         Diverse <span>Industries </span>
+            Diverse <span>Industries</span>
           </h2>
         </div>
 
+      </div>
+
+      <div class="space50"></div>
+
+      <!-- ONLY DESIGN CHANGED BELOW -->
+<div class="col-lg-12">
+  <div class="industries-grid">
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/healthcare.png')">
+      <span>Healthcare / Hospitals</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/hospitality.png')">
+      <span>Hospitality</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/event.png')">
+      <span>Events & Advertising</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/foood.png')">
+      <span>Food & Beverages</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/pharma.png')">
+      <span>Pharmaceuticals</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/tours.png')">
+      <span>Travel & Tourism</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/real-estate.png')">
+      <span>Real Estate</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/manufactring.png')">
+      <span>Packaging Machinery Manufacturer</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/staffing.png')">
+      <span>Recruitment & Staffing</span>
+    </div>
+
+    <div class="industry-card" style="background-image:url('assets/img/serv/e-commer.png')">
+      <span>E-commerce Stores</span>
+    </div>
+
+  </div>
+</div>
 
 
 
 
-                  </div>
-                  <div class="space50"></div>
+    </div>
+  </div>
+</div>
+<!--===== PORTFOLIO AREA ENDS =======-->
 
-
-
-
-                  <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1000">
-                    <div class="portfolio-boxarea click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img1.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Reelup - E commercer Video Platform</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1100">
-                    <div class="portfolio-boxarea2 click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img3.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Academy - Sales Career</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-6 col-md-6" data-aos="fade-left" data-aos-duration="1200">
-                    <div class="portfolio-boxarea2 click-here">
-                      <div class="img1">
-                        <a href="#">
-                          <img src="assets/img/all-images/portfolio/portfolio-img4.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Leadlogic- Dashboard Design</a>
-                    </div>
-                  </div>
-
-                  <div class="col-lg-12" data-aos="fade-left" data-aos-duration="1100">
-                    <div class="portfolio-boxarea click-here">
-                      <div class="img1">
-                        <a href="javascript:void(0)">
-                          <img src="assets/img/all-images/portfolio/portfolio-img2.png" alt="">
-                        </a>
-                      </div>
-                      <div class="space24"></div>
-                      <a href="javascript:void(0)">Reelup - E commercer Video Platform</a>
-                    </div>
-                  </div>
-
-                  
-                </div>
-              </div>
-            </div>
-            <!--===== PORTFOLIO AREA ENDS =======-->
           </div>
           <div class="space30"></div>
           <div id="list-item-6">
@@ -1185,7 +1180,7 @@
                       <div class="btn-area1">
                         <a href="index1.php"><img src="assets/img/logo/logo1.png" alt=""></a>
                       </div>
-                      <p>© 2024 OVRO. All Rights Reserved.</p>
+                      <p>© 2025 VMTECH. All Rights Reserved.</p>
                     </div>
                   </div>
                 </div>

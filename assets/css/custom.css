@@ -144,3 +144,65 @@ a.socialIcon{
     font-size: 14PX;
 
 }
+.industries-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);   /* 4 in one row like JobAway */
+  gap: 22px;
+}
+
+.industry-card {
+  height: 100px;                 /* shorter height for pill look */
+  border-radius: 15px;          /* full pill shape */
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Dark overlay */
+.industry-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to right, rgba(0,0,0,0.65), rgba(0,0,0,0.35));
+}
+
+/* Center text like JobAway */
+.industry-card span {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 700;
+  z-index: 2;
+  text-align: center;
+  padding: 0 20px;
+  line-height: 1.3;
+}
+
+.industry-card:hover {
+  transform: translateY(-4px);
+}
+
+/* Tablet */
+@media (max-width: 992px) {
+  .industries-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+  .industries-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .industry-card {
+    height: 85px;
+  }
+}
