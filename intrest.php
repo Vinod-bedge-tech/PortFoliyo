@@ -25,7 +25,7 @@
             <div id="list-example" class="list-group">
            
                                  <a class="list-group-item list-group-item-action " href="index.php"><img src="assets/img/icons/home4.svg" alt=""><span>Home</span></a> 
-                                 <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/home1.svg" alt=""><span>Intrests</span></a>
+                                 <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/intrest.svg" alt=""><span>Intrests</span></a>
               <a class="list-group-item list-group-item-action" href="index.php#list-item-2"><img src="assets/img/icons/home2.svg" alt=""> <span>About Us</span></a>
               <a class="list-group-item list-group-item-action" href="index.php#list-item-3"><img src="assets/img/icons/home3.svg" alt=""> <span>Our Service</span></a>
               <a class="list-group-item list-group-item-action" href="index.php#list-item-4"><img src="assets/img/icons/home4.svg" alt=""> <span>My Skill</span></a>

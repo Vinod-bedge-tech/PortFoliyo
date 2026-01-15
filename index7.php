@@ -190,7 +190,7 @@
           </div>
           <div class="space30"></div>
           <div class="footer-area2">
-            <p class="text-center">© 2024 OVRO. All Rights Reserved.</p>
+            <p class="text-center">© 2025 VMTECH. All Rights Reserved.</p>
           </div>
           <div class="space32"></div>
         </div>

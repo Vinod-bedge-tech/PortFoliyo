@@ -141,7 +141,7 @@
                   src="assets/img/icons/download1.svg" alt=""></a>
             </div>
             <div class="space32"></div>
-            <p>© 2024 OVRO. All Rights Reserved.</p>
+            <p>© 2025 VMTECH. All Rights Reserved.</p>
           </div>
         </div>
         <div class="col-lg-8">
@@ -359,7 +359,7 @@
                         <div class="btn-area1">
                           <a href="#" class="vl-btn1">HIRE ME <img src="assets/img/icons/mail1.svg" alt=""></a>
                         </div>
-                        <p>© 2024 OVRO. All Rights Reserved.</p>
+                        <p>© 2025 VMTECH. All Rights Reserved.</p>
                       </div>
                     </div>
                   </div>

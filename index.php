@@ -487,16 +487,65 @@
       <div class="row">
 
 
-          <!-- JavaScript -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="900">
+          <!-- HTML -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1100">
             <div class="skill-boxarea" style="padding:16px;">
               <div class="icons">
-                <img src="assets/img/icons/js.png" alt="">
+                <img src="assets/img/icons/html.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>HTML</p>
+            </div>
+          </div>
+    <!-- CSS -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1050">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/css.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>CSS</p>
+            </div>
+          </div>
+
+       <!-- CSS -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1050">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/css.png" alt="">
               </div>
               <div class="space16"></div>
               <p>JavaScript</p>
             </div>
           </div>
+
+      
+          <!-- React -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1000">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/react.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>React</p>
+            </div>
+          </div>
+
+
+             <!-- React -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1000">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/react.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>Angular</p>
+            </div>
+          </div>
+
+
+
+
 
           <!-- Node.js -->
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="950">
@@ -509,50 +558,8 @@
             </div>
           </div>
 
-          <!-- React -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1000">
-            <div class="skill-boxarea" style="padding:16px;">
-              <div class="icons">
-                <img src="assets/img/icons/react.png" alt="">
-              </div>
-              <div class="space16"></div>
-              <p>React</p>
-            </div>
-          </div>
 
-          <!-- CSS -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1050">
-            <div class="skill-boxarea" style="padding:16px;">
-              <div class="icons">
-                <img src="assets/img/icons/css.png" alt="">
-              </div>
-              <div class="space16"></div>
-              <p>CSS</p>
-            </div>
-          </div>
-
-          <!-- HTML -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1100">
-            <div class="skill-boxarea" style="padding:16px;">
-              <div class="icons">
-                <img src="assets/img/icons/html.png" alt="">
-              </div>
-              <div class="space16"></div>
-              <p>HTML</p>
-            </div>
-          </div>
-
-
-          <!-- Excel -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1150">
-            <div class="skill-boxarea" style="padding:16px;">
-              <div class="icons">
-                <img src="assets/img/icons/excel.png" alt="">
-              </div>
-              <div class="space16"></div>
-              <p>Excel</p>
-            </div>
-          </div>
+     
 
           <!-- MongoDB -->
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1200">
@@ -565,28 +572,19 @@
             </div>
           </div>
 
-          <!-- Shopify -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1250">
+    
+          <!-- SQL -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1450">
             <div class="skill-boxarea" style="padding:16px;">
               <div class="icons">
-                <img src="assets/img/icons/shopify.png" alt="">
+                <img src="assets/img/icons/sql.png" alt="">
               </div>
               <div class="space16"></div>
-              <p>Shopify</p>
+              <p>SQL</p>
             </div>
           </div>
 
-          <!-- SEO -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1300">
-            <div class="skill-boxarea" style="padding:16px;">
-              <div class="icons">
-                <img src="assets/img/icons/seo.png" alt="">
-              </div>
-              <div class="space16"></div>
-              <p>SEO</p>
-            </div>
-          </div>
-
+     
           <!-- PHP -->
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1350">
             <div class="skill-boxarea" style="padding:16px;">
@@ -608,18 +606,65 @@
               <p>WordPress</p>
             </div>
           </div>
-
-          <!-- SQL -->
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1450">
+                <!-- Shopify -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1250">
             <div class="skill-boxarea" style="padding:16px;">
               <div class="icons">
-                <img src="assets/img/icons/sql.png" alt="">
+                <img src="assets/img/icons/shopify.png" alt="">
               </div>
               <div class="space16"></div>
-              <p>SQL</p>
+              <p>Shopify</p>
             </div>
           </div>
 
+
+              <!-- Node.js -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="950">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/node.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>Figma</p>
+            </div>
+          </div>
+
+
+     <!-- SEO -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1300">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/seo.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>SEO</p>
+            </div>
+          </div>
+
+
+              <!-- SEO -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1300">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/seo.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>Git </p>
+            </div>
+          </div>
+
+
+
+    <!-- Excel -->
+          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1150">
+            <div class="skill-boxarea" style="padding:16px;">
+              <div class="icons">
+                <img src="assets/img/icons/excel.png" alt="">
+              </div>
+              <div class="space16"></div>
+              <p>Advance Excel</p>
+            </div>
+          </div>
 
         </div>
 
@@ -975,7 +1020,7 @@
                 </div>
               </div>
             </div>
-            <!--===== BLOG AREA ENDS =======-->
+            <!--===== BLOG AREA ENDS =======-  
           </div>
           <div class="space60"></div>
           <div id="list-item-8">
