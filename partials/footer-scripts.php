@@ -17,3 +17,9 @@
   <script src="assets/js/main.js"></script>
     <script src="assets/js/Contact_Us.js"></script>
    <script src="assets/js/plugins/custom.js"></script>
+
+   <!-- GLightbox CSS -->
+
+
+<!-- GLightbox JS -->
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>

@@ -25,7 +25,7 @@
             <div id="list-example" class="list-group">
            
                                  <a class="list-group-item list-group-item-action " href="index.php"><img src="assets/img/icons/home4.svg" alt=""><span>Home</span></a> 
-                                 <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/intrest.svg" alt=""><span>Intrests</span></a>
+                                 <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/intrest.svg" width="50px"  alt=""><span>Intrests</span></a>
               <a class="list-group-item list-group-item-action" href="index.php#list-item-2"><img src="assets/img/icons/home2.svg" alt=""> <span>About Us</span></a>
               <a class="list-group-item list-group-item-action" href="index.php#list-item-3"><img src="assets/img/icons/home3.svg" alt=""> <span>Our Service</span></a>
               <a class="list-group-item list-group-item-action" href="index.php#list-item-4"><img src="assets/img/icons/home4.svg" alt=""> <span>My Skill</span></a>
@@ -118,7 +118,7 @@
             </div>
           </div>
           <!--===== HERO AREA ENDS =======-->
-          <div class="space50"></div>
+          <div class="space100"></div>
           <div id="list-item-2">
             <!--===== ABOUT AREA STARTS =======-->
             <div class="about-section-area">
@@ -700,11 +700,8 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
 
 
 
-
-
-
-            <!-- =====================================
-     My Music Moments (2x2 Video Grid)
+<!-- =====================================
+     My Music Moments (Responsive Video Grid)
 ====================================== -->
 <div class="portfolio-section-area">
   <div class="container">
@@ -728,7 +725,7 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
           </p>
         </div>
       </div>
-    </div> <!-- END HEADER ROW -->
+    </div>
 
     <div class="space50"></div>
 
@@ -736,7 +733,7 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
     <div class="row videoRow">
 
       <!-- CARD 1 -->
-      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1000">
+      <div class="col-lg-4 col-md-6 col-6 mb-4" data-aos="fade-up" data-aos-duration="1000">
         <div class="portfolio-boxarea2 click-here">
           <div class="img12">
             <video controls class="music-video">
@@ -749,7 +746,7 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
       </div>
 
       <!-- CARD 2 -->
-      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1100">
+      <div class="col-lg-4 col-md-6 col-6 mb-4" data-aos="fade-up" data-aos-duration="1100">
         <div class="portfolio-boxarea2 click-here">
           <div class="img12">
             <video controls class="music-video">
@@ -762,7 +759,7 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
       </div>
 
       <!-- CARD 3 -->
-      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1200">
+      <div class="col-lg-4 col-md-6 col-6 mb-4" data-aos="fade-up" data-aos-duration="1200">
         <div class="portfolio-boxarea2 click-here">
           <div class="img12">
             <video controls class="music-video">
@@ -774,23 +771,10 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
         </div>
       </div>
 
-      <!-- CARD 4 -->
-      <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-duration="1300">
-        <div class="portfolio-boxarea2 click-here">
-          <div class="img12">
-            <video controls class="music-video">
-              <source src="assets/img/video/video2.mp4" type="video/mp4">
-            </video>
-          </div>
-          <div class="space24"></div>
-          <a href="#">Cover Tune Practice</a>
-        </div>
-      </div>
+    </div><!-- END VIDEO ROW -->
 
-    </div> <!-- END VIDEO ROW -->
-
-  </div> <!-- END CONTAINER -->
-</div> <!-- END PORTFOLIO SECTION -->
+  </div>
+</div>
 
 
 
@@ -799,13 +783,21 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
           </div>
 
 
-          <div class="space30"></div>
+          <div class="space60"></div>
           <div id="list-item-6">
             <!--===== TESTIMONIAL AREA STARTS =======-->
 
 
 
-    <!--===== BOOKS SECTION START =====-->
+
+
+
+
+
+
+
+<!--===== BOOKS SECTION START =====-->
+<!--===== BOOKS SECTION START =====-->
 <div class="portfolio-section-area">
   <div class="container">
 
@@ -813,15 +805,13 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
     <div class="row">
       <div class="col-lg-12">
         <div class="portfolio-header heading1">
-          <h5 data-aos="fade-left" data-aos-duration="800">
-            <img src="assets/img/icons/sublogo1.svg" alt="">Books That Shaped Me
+          <h5>
+            <img src="assets/img/icons/sublogo1.svg" alt=""> Books That Shaped Me
           </h5>
           <div class="space24"></div>
-          <h2 data-aos="fade-left" data-aos-duration="1000">Reading That Builds</h2>
+          <h2>Reading That Builds</h2>
           <div class="space16"></div>
-          <h2 class="head" data-aos="fade-left" data-aos-duration="1100">
-            My <span>Mindset</span>
-          </h2>
+          <h2 class="head">My <span>Mindset</span></h2>
         </div>
       </div>
     </div>
@@ -832,90 +822,228 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
     <div class="row">
       <div class="col-lg-12">
         <div class="book-tabs">
-          <button class="book-tab active" onclick="openBookTab(event, 'selfgrowth')">Self Growth</button>
-          <button class="book-tab" onclick="openBookTab(event, 'philosophy')">Philosophy</button>
-          <button class="book-tab" onclick="openBookTab(event, 'fiction')">Fiction</button>
+          <button class="book-tab active" onclick="openBookTab(event,'selfgrowth')">Philosophy & Self Help</button>
+          <button class="book-tab" onclick="openBookTab(event,'hindi')">Hindi Literature</button>
+          <button class="book-tab" onclick="openBookTab(event,'english')">English Literature</button>
+          <button class="book-tab" onclick="openBookTab(event,'spiritual')">Spiritual</button>
         </div>
       </div>
     </div>
 
     <div class="space40"></div>
 
-    <!-- TAB CONTENT: SELF GROWTH -->
+    <!-- ================= SELF GROWTH ================= -->
     <div id="selfgrowth" class="book-tab-content" style="display:block;">
       <div class="row">
 
-        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+              <a href="assets/img/books/book1 (7).jpg" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/book1 (7).jpg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">Atomic Habits</a>
+            <div class="space10"></div>
+            <a href="#">The Laws of Human Nature</a>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img2.png" alt="">
+              <a href="assets/img/books/book1 (13).jpg" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/book1 (13).jpg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">Deep Work</a>
+            <div class="space10"></div>
+            <a href="#">Power of Subconscious Mind</a>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img3.png" alt="">
+              <a href="assets/img/books/book1 (21).jpg" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/book1 (21).jpg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">The Subtle Art of Not Giving a F</a>
+            <div class="space10"></div>
+            <a href="#">Man's Search for Meaning</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (3).jpg" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/book1 (3).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Beyond Good and Evil</a>
+          </div>
+        </div>
+        
+
+
+
+
+           <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (1) 1.png" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/book1 (1) 1.png" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Dream Psychology</a>
+          </div>
+        </div>
+
+
+
+
+
+
+           <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (3).jpg" class="glightbox" data-gallery="selfgrowth">
+                <img src="assets/img/books/book1 (3).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Beyond Good and Evil</a>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <!-- ================= HINDI ================= -->
+    <div id="hindi" class="book-tab-content" style="display:none;">
+      <div class="row">
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (11).jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/book1 (11).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Godan</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (15).jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/book1 (15).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Gaban</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (18).jpg" class="glightbox" data-gallery="hindi">
+                <img src="assets/img/books/book1 (18).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">October Junction</a>
           </div>
         </div>
 
       </div>
     </div>
 
-    <!-- TAB CONTENT: PHILOSOPHY -->
-    <div id="philosophy" class="book-tab-content">
+    <!-- ================= ENGLISH ================= -->
+    <div id="english" class="book-tab-content" style="display:none;">
       <div class="row">
 
-        <div class="col-lg-4 col-md-6">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img1.png" alt="">
+              <a href="assets/img/books/book1 (2).jpg" class="glightbox" data-gallery="english">
+                <img src="assets/img/books/book1 (2).jpg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">Meditations – Marcus Aurelius</a>
+            <div class="space10"></div>
+            <a href="#">Anne Frank</a>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img2.png" alt="">
+              <a href="assets/img/books/book1 (1).jpeg" class="glightbox" data-gallery="english">
+                <img src="assets/img/books/book1 (1).jpeg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">Beyond Good & Evil – Nietzsche</a>
+            <div class="space10"></div>
+            <a href="#">Dream Psychology</a>
           </div>
         </div>
 
       </div>
     </div>
 
-    <!-- TAB CONTENT: FICTION -->
-    <div id="fiction" class="book-tab-content">
+    <!-- ================= SPIRITUAL ================= -->
+    <div id="spiritual" class="book-tab-content" style="display:none;">
       <div class="row">
 
-        <div class="col-lg-4 col-md-6">
+        <div class="col-6 col-md-3 col-lg-2">
           <div class="portfolio-boxarea2">
             <div class="img1">
-              <img src="assets/img/all-images/hero/hero-img3.png" alt="">
+              <a href="assets/img/books/book1 (1).jpeg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/book1 (1).jpeg" alt="">
+              </a>
             </div>
-            <div class="space24"></div>
-            <a href="#">The Alchemist</a>
+            <div class="space10"></div>
+            <a href="#">Krishna Ki Aatmkatha</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (22).jpg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/book1 (22).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Karn Ki Aatmkatha</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (11).jpg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/book1 (11).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Kamayni</a>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3 col-lg-2">
+          <div class="portfolio-boxarea2">
+            <div class="img1">
+              <a href="assets/img/books/book1 (16).jpg" class="glightbox" data-gallery="spiritual">
+                <img src="assets/img/books/book1 (16).jpg" alt="">
+              </a>
+            </div>
+            <div class="space10"></div>
+            <a href="#">Shikhndi</a>
           </div>
         </div>
 
@@ -926,13 +1054,14 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
 </div>
 <!--===== BOOKS SECTION END =====-->
 
+
             <!--===== TESTIMONIAL AREA ENDS =======-->
 
 
 
 
           </div>
-          <div class="space30"></div>
+          <div class="space60"></div>
           <div id="list-item-7">
 
 
@@ -954,7 +1083,7 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                       <h2 class="head" data-aos="fade-left" data-aos-duration="1200">Daily  <span>  Life Blog</span> </h2>
                       <div class="space60"></div>
                       <div class="row">
-                        <div class="col-lg-6 col-md-6">
+                        <div class="col-lg-4 col-md-4">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                              <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img1.png" alt=""></a>
@@ -962,19 +1091,16 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                             <div class="content-area">
                               <ul>
                                 <li><a href="#">UI/UX</a></li>
-                                <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
+                        <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                               <div class="space16"></div>
                               <a href="blog-single.php">Behind the Pixels: My Favorite Design Projects</a>
                               <div class="space16"></div>
-                              <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
-                                <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
-                              </ul>
+                        
                             </div>
                           </div>
                         </div>
-                        <div class="col-lg-6 col-md-6">
+                        <div class="col-lg-4 col-md-4">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                               <a href="blog-single.php"><img src="assets/img/all-images/blog/blog-img2.png" alt=""></a>
@@ -982,20 +1108,17 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                             <div class="content-area">
                               <ul>
                                 <li><a href="#">UI/UX</a></li>
-                                <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
+                      <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                               <div class="space16"></div>
                               <a href="blog-single.php">Crafting Seamless Experiences: My UI/UX Design Philosophy</a>
                               <div class="space16"></div>
-                              <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
-                                <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
-                              </ul>
+                          
                             </div>
                           </div>
                         </div>
 
-                        <div class="col-lg-6 col-md-6">
+                        <div class="col-lg-4 col-md-4">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                              <a href="blog-single.php"> <img src="assets/img/all-images/blog/blog-img3.png" alt=""></a>
@@ -1003,20 +1126,17 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                             <div class="content-area">
                               <ul>
                                 <li><a href="#">UI/UX</a></li>
-                                <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
+              <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                               <div class="space16"></div>
                               <a href="blog-single.php">Staying Ahead: Trends Shaping UI/UX in 2024</a>
                               <div class="space16"></div>
-                              <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
-                                <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
-                              </ul>
+                           
                             </div>
                           </div>
                         </div>
 
-                        <div class="col-lg-6 col-md-6">
+                        <!-- <div class="col-lg-4 col-md-6">
                           <div class="blog-boxarea">
                             <div class="img1 reveal">
                               <a href="blog-single.php"><img src="assets/img/all-images/blog/blog-img4.png" alt=""></a>
@@ -1024,21 +1144,21 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                             <div class="content-area">
                               <ul>
                                 <li><a href="#">UI/UX</a></li>
-                                <li><a href="#"><i class="fa-regular fa-clock"></i> 3 min read</a></li>
+                             <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
                               </ul>
                               <div class="space16"></div>
                               <a href="blog-single.php">From Concept to Reality: My Design Process</a>
                               <div class="space16"></div>
-                              <ul>
-                                <li><a href="#"><img src="assets/img/all-images/blog/blog-img5.png" alt="">Alex Carry</a></li>
-                                <li><a href="#"><i class="fa-regular fa-calendar"></i>Oct 26, 2024 </a></li>
-                              </ul>
+                           
                             </div>
                           </div>
-                        </div>
+                        </div> -->
 
                         <div class="space30"></div>
-                        <div class="pagination-area">
+
+
+
+                        <!-- <div class="pagination-area">
                           <nav aria-label="Page navigation example">
                             <ul class="pagination justify-content-center">
                               <li class="page-item">
@@ -1057,7 +1177,11 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
                               </li>
                             </ul>
                           </nav>
-                        </div>
+                        </div> -->
+
+
+
+
                       </div>
                     </div>
                   </div>
@@ -1282,7 +1406,29 @@ Ensuring your website works flawlessly across devices with thorough testing.</p>
 <?php include 'partials/footer-scripts.php' ?>
 
 </body>
+<script>
+  // Initialize GLightbox
+  const lightbox = GLightbox({
+    selector: '.glightbox',
+    touchNavigation: true,
+    loop: true,
+    zoomable: true,
+  });
 
+  // Tabs Function
+  function openBookTab(evt, tabName) {
+    const tabcontent = document.getElementsByClassName("book-tab-content");
+    for (let i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+    const tablinks = document.getElementsByClassName("book-tab");
+    for (let i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+  }
+</script>
 
 
 </html>

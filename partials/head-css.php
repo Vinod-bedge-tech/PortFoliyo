@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/custom.css
     ">
+    <link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet" />
     
 
   <!--=====  JS SCRIPT LINK =======-->

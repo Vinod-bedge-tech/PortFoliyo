@@ -24,7 +24,7 @@
           <div class="personal-contact-box" data-aos="fade-right" data-aos-duration="1000">
             <div id="list-example" class="list-group">
               <a class="list-group-item list-group-item-action active" href="#list-item-1"><img src="assets/img/icons/home1.svg" alt=""><span>Home</span></a>
-                     <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/intrest.svg" alt=""><span>Intrests</span></a>
+                     <a class="list-group-item list-group-item-action active" href="intrest.php"><img src="assets/img/icons/intrest.svg"  width="50px" alt=""><span>Intrests</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-2"><img src="assets/img/icons/home2.svg" alt=""> <span>About Us</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-3"><img src="assets/img/icons/home3.svg" alt=""> <span>Our Service</span></a>
               <a class="list-group-item list-group-item-action" href="#list-item-4"><img src="assets/img/icons/home4.svg" alt=""> <span>My Skill</span></a>
@@ -87,11 +87,60 @@
                 <a href="#">
                   <img src="assets/img/elements/elements1.png" alt="" class="elements1 keyframe5">
                   <img src="assets/img/icons/arrow1.svg" alt="" class="arrow1">
+
+
+                  
                 </a>
 
-                <div class="images">
-                  <img src="assets/img/all-images/others/others1.png" alt="">
-                  <p>2k+ reviews <br> (4.90 of 5)</p>
+
+
+<!-- 
+<div class="circle-wrap">
+  <img src="assets/img/elements/elements1.png" alt="" class="elements1 keyframe5">
+
+  <div class="clock">
+    <div class="clock-face">
+      <div class="number number1">1</div>
+      <div class="number number2">2</div>
+      <div class="number number3">3</div>
+      <div class="number number4">4</div>
+      <div class="number number5">5</div>
+      <div class="number number6">6</div>
+      <div class="number number7">7</div>
+      <div class="number number8">8</div>
+      <div class="number number9">9</div>
+      <div class="number number10">10</div>
+      <div class="number number11">11</div>
+      <div class="number number12">12</div>
+
+      <div class="hand hour-hand" id="hour-hand"></div>
+      <div class="hand minute-hand" id="minute-hand"></div>
+      <div class="hand second-hand" id="second-hand"></div>
+    </div>
+  </div>
+</div> -->
+
+
+
+
+
+                
+     <div class="images">
+                <div class="social-link-area">
+      
+          <ul>
+            <li>
+              <!-- <a href="#"><i class="fa-brands fa-facebook-f"></i></a> -->
+              <a href="#" class="socialIcon"><i class="fa-brands fa-instagram"></i></a>
+              <a href="#" class="socialIcon"><i class="fa-brands fa-linkedin-in"></i></a>
+              <!-- <a href="#"><i class="fa-brands fa-pinterest-p"></i></a> -->
+              <!-- <a href="#"><i class="fa-brands fa-youtube"></i></a> -->
+            </li>
+          </ul>
+        </div>
+                  <p>Stay 
+
+ <br> Connected</p>
                 </div>
               </div>
               <div class="space32"></div>
@@ -512,7 +561,7 @@
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1050">
             <div class="skill-boxarea" style="padding:16px;">
               <div class="icons">
-                <img src="assets/img/icons/css.png" alt="">
+                <img src="assets/img/icons/js.png" alt="">
               </div>
               <div class="space16"></div>
               <p>JavaScript</p>
@@ -536,7 +585,7 @@
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1000">
             <div class="skill-boxarea" style="padding:16px;">
               <div class="icons">
-                <img src="assets/img/icons/react.png" alt="">
+                <img src="assets/img/icons/angular.png" alt="">
               </div>
               <div class="space16"></div>
               <p>Angular</p>
@@ -622,7 +671,7 @@
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="950">
             <div class="skill-boxarea" style="padding:16px;">
               <div class="icons">
-                <img src="assets/img/icons/node.png" alt="">
+                <img src="assets/img/icons/figma.png" alt="">
               </div>
               <div class="space16"></div>
               <p>Figma</p>
@@ -646,7 +695,7 @@
           <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-out" data-aos-duration="1300">
             <div class="skill-boxarea" style="padding:16px;">
               <div class="icons">
-                <img src="assets/img/icons/seo.png" alt="">
+                <img src="assets/img/icons/git.png" alt="">
               </div>
               <div class="space16"></div>
               <p>Git </p>
