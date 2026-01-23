@@ -330,7 +330,7 @@ a.socialIcon{
     transition: all 0.4s;
 }
 
-.main-hero-area5 .hero-heading-area .main-btn-area a span {
+.main-hero-area5  .hero-heading-area .main-btn-area a span {
     margin-left: 20px;
     height: 80px;
     width: 80px;
@@ -347,8 +347,24 @@ a.socialIcon{
 }
 
 
-
-
+.main-hero-area4 .hero-heading-area .main-btn-area a {
+    background: var(--ztc-bg-bg2);
+    border: 1px solid var(--ztc-border-border-2);
+    padding: 40px 60px;
+    border-radius: 8px;
+    color: var(--ztc-text-text-1);
+    font-family: var(--ztc-family-font1);
+    font-size: var(--ztc-font-size-font-s60);
+    font-style: normal;
+    font-weight: var(--ztc-weight-semibold);
+    line-height: 80px;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    transition: all 0.4s;
+}
 
 
 .circle-wrap {
