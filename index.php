@@ -150,7 +150,7 @@
             </div>
           </div>
           <!--===== HERO AREA ENDS =======-->
-          <div class="space50"></div>
+          <div class="space100"></div>
           <div id="list-item-2">
             <!--===== ABOUT AREA STARTS =======-->
             <div class="about-section-area">
@@ -309,7 +309,7 @@
 
 </div>
 
-                  <div class="space20"></div>
+                  <div class="space80"></div>
                 </div>
               </div>
             </div>
@@ -506,7 +506,7 @@
 
             <!--===== SERVICE AREA ENDS =======-->
           </div>
-          <div class="space50"></div>
+          <div class="space80"></div>
 
 
           <div id="list-item-4">
@@ -726,7 +726,7 @@
 
             <!--===== SKILL AREA ENDS =======-->
           </div>
-          <div class="space30"></div>
+          <div class="space80"></div>
           <div id="list-item-5">
 
 
@@ -810,7 +810,7 @@
 <!--===== PORTFOLIO AREA ENDS =======-->
 
           </div>
-          <div class="space30"></div>
+          <div class="space80"></div>
           <div id="list-item-6">
             <!--===== TESTIMONIAL AREA STARTS =======-->
             <div class="testimonial-section-area">
@@ -944,7 +944,7 @@
             </div>
             <!--===== TESTIMONIAL AREA ENDS =======-->
           </div>
-          <div class="space30"></div>
+          <div class="space80"></div>
           <div id="list-item-7">
             <!--===== BLOG AREA STARTS =======-->
             <div class="blog-section-area">
@@ -1043,7 +1043,7 @@
                         </div>
 
                         <div class="space30"></div>
-                        <div class="pagination-area">
+                        <!-- <div class="pagination-area">
                           <nav aria-label="Page navigation example">
                             <ul class="pagination justify-content-center">
                               <li class="page-item">
@@ -1062,7 +1062,7 @@
                               </li>
                             </ul>
                           </nav>
-                        </div>
+                        </div> -->
                       </div>
                     </div>
                   </div>
